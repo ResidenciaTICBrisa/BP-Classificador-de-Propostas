@@ -2,4 +2,4 @@
 
 Requisitos:
     $ pip install beautifulsoup4
-    $ pip install request
+    $ pip install requests
