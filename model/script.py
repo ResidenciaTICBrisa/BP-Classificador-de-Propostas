@@ -29,7 +29,7 @@ def baixa_propostas(url):
 with zipfile.ZipFile('/home/leandro/Documentos/Trabalho/model/brasilparticipativo.presidencia.gov.br-open-data.zip', 'r') as zip_ref:
     for arquivo in zip_ref.namelist():
         if arquivo.endswith('brasilparticipativo.presidencia.gov.br-open-data-proposals.csv'):
-            zip_ref.extract(arquivo, '/home/leandro/Documentos/Trabalho/model')
+            zip_ref.extract(arquivo, 'model')
             break
     
 
