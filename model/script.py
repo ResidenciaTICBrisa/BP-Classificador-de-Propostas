@@ -2,6 +2,7 @@ import pandas as pd
 import os
 import requests
 from bs4 import BeautifulSoup
+import zipfile
 
 # Baixar as propostas esta dando erro de certificado ssl
 def baixa_propostas(url):
@@ -24,8 +25,16 @@ def baixa_propostas(url):
     else:
         print("Falha ao fazer o download do arquivo.")
 
+# Extrai o arquivo zip do brasil participativo
+with zipfile.ZipFile('/home/leandro/Documentos/Trabalho/model/brasilparticipativo.presidencia.gov.br-open-data.zip', 'r') as zip_ref:
+    for arquivo in zip_ref.namelist():
+        if arquivo.endswith('brasilparticipativo.presidencia.gov.br-open-data-proposals.csv'):
+            zip_ref.extract(arquivo, '/home/leandro/Documentos/Trabalho/model')
+            break
+    
 
 
+# Le as propostas
 propostas = pd.read_csv("model/brasilparticipativo.presidencia.gov.br-open-data-proposals.csv", delimiter=";")
 
 #seleciona as colunas que precisa
@@ -50,4 +59,5 @@ propostas['body/pt-BR'] = texto_extraido  # Sobrescreve a coluna com o texto ext
 
 propostas.to_csv('model/propostas.csv', index=False)
 
-
+# remove o csv antigo 
+os.remove('/home/leandro/Documentos/Trabalho/model/brasilparticipativo.presidencia.gov.br-open-data-proposals.csv')
