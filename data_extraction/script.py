@@ -5,6 +5,8 @@ from bs4 import BeautifulSoup
 import zipfile
 
 # Baixar as propostas esta dando erro de certificado ssl
+# O certificado do site ou do CA do site está desatualizado e precisa ser atualizado
+# TODO: Testar o download assim que esse problema se resolva.
 def baixa_propostas(url):
     # Obter o nome do arquivo a partir do link
     file_name = os.path.basename(url)
@@ -26,16 +28,16 @@ def baixa_propostas(url):
         print("Falha ao fazer o download do arquivo.")
 
 # Extrai o arquivo zip do brasil participativo
-with zipfile.ZipFile('/home/leandro/Documentos/Trabalho/model/brasilparticipativo.presidencia.gov.br-open-data.zip', 'r') as zip_ref:
+with zipfile.ZipFile('brasilparticipativo.presidencia.gov.br-open-data.zip', 'r') as zip_ref:
     for arquivo in zip_ref.namelist():
         if arquivo.endswith('brasilparticipativo.presidencia.gov.br-open-data-proposals.csv'):
-            zip_ref.extract(arquivo, 'model')
+            zip_ref.extract(arquivo, '')
             break
     
 
 
 # Le as propostas
-propostas = pd.read_csv("model/brasilparticipativo.presidencia.gov.br-open-data-proposals.csv", delimiter=";")
+propostas = pd.read_csv("brasilparticipativo.presidencia.gov.br-open-data-proposals.csv", delimiter=";")
 
 #seleciona as colunas que precisa
 propostas = pd.DataFrame(propostas, columns=['category/name/pt-BR','title/pt-BR','body/pt-BR'])
@@ -60,4 +62,4 @@ propostas['body/pt-BR'] = texto_extraido  # Sobrescreve a coluna com o texto ext
 propostas.to_csv('model/propostas.csv', index=False)
 
 # remove o csv antigo 
-os.remove('/home/leandro/Documentos/Trabalho/model/brasilparticipativo.presidencia.gov.br-open-data-proposals.csv')
+os.remove('brasilparticipativo.presidencia.gov.br-open-data-proposals.csv')
