@@ -1,0 +1,32 @@
+# Project information
+site_name: "Grupo 07 - NLP"
+site_description: ""
+site_author: "Grupo 07 - NLP"
+
+# Repository
+repo_name: "NLP - 07"
+repo_url: "https://github.com/ResidenciaTICBrisa/07_ProcessamentoLinguagemNatural"
+
+# Copyright
+copyright: "Copyright &copy; 2023 Grupo 07 - NLP"
+theme:
+  logo: "assets/img/logo.png"
+  favicon: "assets/img/logo.png"
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+  features:
+    - navigation.tabs
+  language: "pt"
+  name: "material"
+  palette:
+    primary: "blue"
+    accent: "grey"
+
+# Content Menu
+nav:
+  - Introdução: "management/introducao.md"
+  - Gerência:
+    - Plano metodológico: "management/metodologia.md"
+    - Plano de Comunicação: "management/comunicacao.md"
+    - Definição de papeis: "management/papeis.md"
