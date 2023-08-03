@@ -4,7 +4,7 @@
 
 | Data       | Autor                                        | Modificações                          | Versão |
 | ---------- | -------------------------------------------- | ------------------------------------- | ------ |
-| 23/01/2022 | [Leandro Silva](https://github.com/Leanddro13) | Adicionou o plano metodológico da equipe | 1.0    |
+| 03/08/2023 | [Leandro Silva](https://github.com/Leanddro13) | Adicionou o plano metodológico da equipe | 1.0    |
 
 ## Introdução
 

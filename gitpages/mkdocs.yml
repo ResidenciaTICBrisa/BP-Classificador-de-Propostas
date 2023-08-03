@@ -2,6 +2,7 @@
 site_name: "Grupo 07 - NLP"
 site_description: ""
 site_author: "Grupo 07 - NLP"
+site_url: "https://ResidenciaTICBrisa.github.io/07_ProcessamentoLinguagemNatural/"
 
 # Repository
 repo_name: "NLP - 07"
@@ -25,8 +26,15 @@ theme:
 
 # Content Menu
 nav:
-  - Index: "management/introducao.md"
+  - Index: "index.md"
   - Gerência:
     - Plano metodológico: "management/metodologia.md"
     - Plano de Comunicação: "management/comunicacao.md"
     - Definição de papeis: "management/papeis.md"
+  - Projeto:
+    - Código de conduta: "project/CODE_OF_CONDUCT.md"
+  - Processo de desenvolvimento: "processo_de_desenvolvimento.ipynb"
+
+# Plugin jupyter
+plugins:
+  - mkdocs-jupyter
