@@ -26,8 +26,6 @@ theme:
 
 # Content Menu
 nav:
-  - Home: 
-    - Index: "index.md"
   - Gerência:
     - Plano metodológico: "management/metodologia.md"
     - Plano de Comunicação: "management/comunicacao.md"
