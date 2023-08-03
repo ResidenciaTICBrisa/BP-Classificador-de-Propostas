@@ -25,7 +25,7 @@ theme:
 
 # Content Menu
 nav:
-  - Introdução: "management/introducao.md"
+  - Index: "management/introducao.md"
   - Gerência:
     - Plano metodológico: "management/metodologia.md"
     - Plano de Comunicação: "management/comunicacao.md"
