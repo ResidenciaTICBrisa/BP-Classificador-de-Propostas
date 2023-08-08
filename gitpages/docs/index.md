@@ -15,5 +15,40 @@
 
 **Dificuldade:** Grande
 
-## Membros
+## Desenvolvedores
 
+<center>
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/LexTOliver">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/27731119?v=4" width="150px;"/>
+                <h5 class="text-center">Alexandre Oliveira</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/jpanacleto2">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/56097889?v=4" width="150px;"/>
+                <h5 class="text-center">João Anacleto</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/chaydson">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/90580219?v=4" width="150px;"/>
+                <h5 class="text-center">chaydson Ferreira</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/QuinQuad">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/136384280?v=4" width="150px;"/>
+                <h5 class="text-center">Leandro Santos</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Leanddro13">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86811628?v=4" width="150px;"/>
+                <h5 class="text-center">Leandro Silva</h5>
+            </a>
+        </td>
+</table>
+</center>
