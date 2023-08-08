@@ -3,7 +3,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/ResidenciaTICBrisa/07_ProcessamentoLinguagemNatural/tree/main">
-    <img src="assets/img/logo.png" width="300" height="300">
+    <img src="https://residenciaticbrisa.github.io/07_ProcessamentoLinguagemNatural/assets/img/logo.png" width="300" height="300">
   </a>
 </div>
 
