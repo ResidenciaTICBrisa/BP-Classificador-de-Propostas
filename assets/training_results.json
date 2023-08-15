@@ -1,0 +1,249 @@
+{
+    "Advocacia-Geral da Uni\u00e3o": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 6.0
+    },
+    "Agricultura e Pecu\u00e1ria": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 33.0
+    },
+    "Banco Central": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7.0
+    },
+    "Casa Civil": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 9.0
+    },
+    "Cidades": {
+        "precision": 0.3870967741935484,
+        "recall": 0.26666666666666666,
+        "f1-score": 0.3157894736842105,
+        "support": 90.0
+    },
+    "Ci\u00eancia, Tecnologia e Inova\u00e7\u00e3o": {
+        "precision": 0.5294117647058824,
+        "recall": 0.17647058823529413,
+        "f1-score": 0.2647058823529412,
+        "support": 51.0
+    },
+    "Comunica\u00e7\u00e3o Social": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 16.0
+    },
+    "Comunica\u00e7\u00f5es": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 10.0
+    },
+    "Controladoria-Geral da Uni\u00e3o": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7.0
+    },
+    "Cultura": {
+        "precision": 0.5686274509803921,
+        "recall": 0.46774193548387094,
+        "f1-score": 0.5132743362831858,
+        "support": 62.0
+    },
+    "Defesa": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 19.0
+    },
+    "Desenvolvimento Agr\u00e1rio e Agricultura Familiar": {
+        "precision": 0.4567901234567901,
+        "recall": 0.44047619047619047,
+        "f1-score": 0.44848484848484843,
+        "support": 84.0
+    },
+    "Desenvolvimento e Assist\u00eancia Social, Fam\u00edlia e Combate \u00e0 Fome": {
+        "precision": 0.3132530120481928,
+        "recall": 0.1897810218978102,
+        "f1-score": 0.23636363636363636,
+        "support": 137.0
+    },
+    "Desenvolvimento, Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 38.0
+    },
+    "Direitos Humanos e Cidadania": {
+        "precision": 0.23745819397993312,
+        "recall": 0.44375,
+        "f1-score": 0.30936819172113295,
+        "support": 160.0
+    },
+    "Educa\u00e7\u00e3o": {
+        "precision": 0.5840867992766727,
+        "recall": 0.8455497382198953,
+        "f1-score": 0.6909090909090909,
+        "support": 382.0
+    },
+    "Esporte": {
+        "precision": 0.3333333333333333,
+        "recall": 0.05,
+        "f1-score": 0.08695652173913045,
+        "support": 20.0
+    },
+    "Fazenda": {
+        "precision": 0.39473684210526316,
+        "recall": 0.45454545454545453,
+        "f1-score": 0.4225352112676056,
+        "support": 33.0
+    },
+    "Gest\u00e3o e Inova\u00e7\u00e3o em Servi\u00e7os P\u00fablicos": {
+        "precision": 0.345679012345679,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.3393939393939394,
+        "support": 84.0
+    },
+    "Igualdade Racial": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 28.0
+    },
+    "Integra\u00e7\u00e3o e Desenvolvimento Regional": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 31.0
+    },
+    "Justi\u00e7a e Seguran\u00e7a P\u00fablica": {
+        "precision": 0.6395348837209303,
+        "recall": 0.48672566371681414,
+        "f1-score": 0.5527638190954774,
+        "support": 113.0
+    },
+    "Meio Ambiente e Mudan\u00e7a do Clima": {
+        "precision": 0.49159663865546216,
+        "recall": 0.75,
+        "f1-score": 0.5939086294416243,
+        "support": 156.0
+    },
+    "Minas e Energia": {
+        "precision": 1.0,
+        "recall": 0.05263157894736842,
+        "f1-score": 0.1,
+        "support": 38.0
+    },
+    "Mulheres": {
+        "precision": 0.5,
+        "recall": 0.1111111111111111,
+        "f1-score": 0.1818181818181818,
+        "support": 63.0
+    },
+    "Outros": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 8.0
+    },
+    "Pesca e Aquicultura": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 10.0
+    },
+    "Planejamento e Or\u00e7amento": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 34.0
+    },
+    "Portos e Aeroportos": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7.0
+    },
+    "Povos Ind\u00edgenas": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+    },
+    "Previd\u00eancia Social": {
+        "precision": 0.6111111111111112,
+        "recall": 0.26506024096385544,
+        "f1-score": 0.3697478991596639,
+        "support": 83.0
+    },
+    "Rela\u00e7\u00f5es Exteriores": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 4.0
+    },
+    "Rela\u00e7\u00f5es Institucionais": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 11.0
+    },
+    "Sa\u00fade": {
+        "precision": 0.543859649122807,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.6581740976645436,
+        "support": 372.0
+    },
+    "Secretaria Geral da Presid\u00eancia da Rep\u00fablica": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 21.0
+    },
+    "Seguran\u00e7a Institucional": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7.0
+    },
+    "Trabalho e Emprego": {
+        "precision": 0.4112903225806452,
+        "recall": 0.5204081632653061,
+        "f1-score": 0.4594594594594595,
+        "support": 98.0
+    },
+    "Transportes": {
+        "precision": 0.5901639344262295,
+        "recall": 0.7012987012987013,
+        "f1-score": 0.6409495548961425,
+        "support": 154.0
+    },
+    "Turismo": {
+        "precision": 0.9,
+        "recall": 0.2727272727272727,
+        "f1-score": 0.41860465116279066,
+        "support": 33.0
+    },
+    "accuracy": 0.49150533386013434,
+    "macro avg": {
+        "precision": 0.25225717553956084,
+        "recall": 0.19645156395441737,
+        "f1-score": 0.19495403653583604,
+        "support": 2531.0
+    },
+    "weighted avg": {
+        "precision": 0.4427539941580397,
+        "recall": 0.49150533386013434,
+        "f1-score": 0.43653114531415876,
+        "support": 2531.0
+    }
+}
