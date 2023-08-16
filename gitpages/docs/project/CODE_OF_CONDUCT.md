@@ -8,7 +8,7 @@
 
 ## Propósito
 
-O projeto é mantido por universitários. Sendo assim, frisamos a importância de promover um ambiente aberto e acolhedor,nós mantenedores e contribuidores nos comprometemos a fazer participação em nosso projeto e nossa comunidade provendo uma experiência livre de assédio para todos.
+O projeto é mantido por universitários. Sendo assim, frisamos a importância de promover um ambiente aberto e acolhedor. Nós, mantenedores e contribuidores, nos comprometemos a fazer participação em nosso projeto e nossa comunidade provendo uma experiência livre de assédio para todos.
 
 ## Nossas Responsabilidades
 
