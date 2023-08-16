@@ -1,0 +1,272 @@
+{
+  "token_acc":1.0,
+  "token_p":1.0,
+  "token_r":1.0,
+  "token_f":1.0,
+  "cats_score":0.0495318334,
+  "cats_score_desc":"macro F",
+  "cats_micro_p":0.0550756455,
+  "cats_micro_r":0.0550756455,
+  "cats_micro_f":0.0550756455,
+  "cats_macro_p":0.1002230245,
+  "cats_macro_r":0.0715682824,
+  "cats_macro_f":0.0495318334,
+  "cats_macro_auc":0.3566793333,
+  "cats_f_per_type":{
+    "U.S. NEWS":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "COMEDY":{
+      "p":0.6111111111,
+      "r":0.0298913043,
+      "f":0.0569948187
+    },
+    "PARENTING":{
+      "p":1.0,
+      "r":0.0004945598,
+      "f":0.0009886307
+    },
+    "WORLD NEWS":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "CULTURE & ARTS":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "TECH":{
+      "p":0.4775510204,
+      "r":0.414893617,
+      "f":0.4440227704
+    },
+    "SPORTS":{
+      "p":0.0905923345,
+      "r":0.6724137931,
+      "f":0.1596724667
+    },
+    "ENTERTAINMENT":{
+      "p":0.0603960396,
+      "r":0.6834733894,
+      "f":0.1109847623
+    },
+    "POLITICS":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "WEIRD NEWS":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "ENVIRONMENT":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "EDUCATION":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "CRIME":{
+      "p":0.2131147541,
+      "r":0.208,
+      "f":0.2105263158
+    },
+    "SCIENCE":{
+      "p":0.4444444444,
+      "r":0.1572052402,
+      "f":0.2322580645
+    },
+    "WELLNESS":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "BUSINESS":{
+      "p":0.0780031201,
+      "r":0.1146788991,
+      "f":0.0928505107
+    },
+    "STYLE & BEAUTY":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "FOOD & DRINK":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "MEDIA":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "QUEER VOICES":{
+      "p":0.2925764192,
+      "r":0.4437086093,
+      "f":0.3526315789
+    },
+    "HOME & LIVING":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "WOMEN":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "BLACK VOICES":{
+      "p":0.0648648649,
+      "r":0.0535714286,
+      "f":0.0586797066
+    },
+    "TRAVEL":{
+      "p":0.7791519435,
+      "r":0.2091038407,
+      "f":0.3297196262
+    },
+    "MONEY":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "RELIGION":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "LATINO VOICES":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "IMPACT":{
+      "p":0.0975609756,
+      "r":0.0184331797,
+      "f":0.0310077519
+    },
+    "WEDDINGS":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "COLLEGE":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "PARENTS":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "ARTS & CULTURE":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "STYLE":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "GREEN":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "TASTE":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "HEALTHY LIVING":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "THE WORLDPOST":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "GOOD NEWS":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "WORLDPOST":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "FIFTY":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "ARTS":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    },
+    "DIVORCE":{
+      "p":0.0,
+      "r":0.0,
+      "f":0.0
+    }
+  },
+  "cats_auc_per_type":{
+    "U.S. NEWS":null,
+    "COMEDY":0.759470079,
+    "PARENTING":0.6475615987,
+    "WORLD NEWS":null,
+    "CULTURE & ARTS":0.553285285,
+    "TECH":0.8622407073,
+    "SPORTS":0.9104775491,
+    "ENTERTAINMENT":0.8340631261,
+    "POLITICS":null,
+    "WEIRD NEWS":null,
+    "ENVIRONMENT":0.6897814486,
+    "EDUCATION":null,
+    "CRIME":0.9042815441,
+    "SCIENCE":0.7974961418,
+    "WELLNESS":0.6758667326,
+    "BUSINESS":0.6167477809,
+    "STYLE & BEAUTY":0.5849491808,
+    "FOOD & DRINK":0.881111634,
+    "MEDIA":null,
+    "QUEER VOICES":0.8191635445,
+    "HOME & LIVING":0.7004860497,
+    "WOMEN":null,
+    "BLACK VOICES":0.6148012102,
+    "TRAVEL":0.7844503708,
+    "MONEY":0.6304573467,
+    "RELIGION":null,
+    "LATINO VOICES":null,
+    "IMPACT":0.6437100863,
+    "WEDDINGS":0.5398378379,
+    "COLLEGE":null,
+    "PARENTS":null,
+    "ARTS & CULTURE":null,
+    "STYLE":null,
+    "GREEN":null,
+    "TASTE":null,
+    "HEALTHY LIVING":null,
+    "THE WORLDPOST":null,
+    "GOOD NEWS":null,
+    "WORLDPOST":null,
+    "FIFTY":null,
+    "ARTS":null,
+    "DIVORCE":0.5302927434
+  },
+  "speed":3840.7676845387
+}
