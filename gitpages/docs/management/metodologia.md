@@ -5,29 +5,32 @@
 | Data       | Autor                                        | Modificações                          | Versão |
 | ---------- | -------------------------------------------- | ------------------------------------- | ------ |
 | 03/08/2023 | [Leandro Silva](https://github.com/Leanddro13) | Adicionou o plano metodológico da equipe | 1.0    |
+| 16/08/2023 | [Alexandre Oliveira](https://github.com/LexTOliver) | Pequenas correções textuais e mais detalhamento do Kanba | 1.0.1    |
 
 ## Introdução
 
-O presente documento visa descrever o plano metodológico utilizado no desenvolvimento do classificador de propostas do [Brasil participativo](https://brasilparticipativo.presidencia.gov.br/), além de detalhar as técnicas e as metodologias aplicadas durante a elaboração do projeto. Utiliza-se de conceitos e práticas de múltiplas metodologias de modo a fazer uma adaptação ao contexto do trabalho.
+O presente documento visa descrever o plano metodológico utilizado no desenvolvimento do classificador de propostas do [Brasil Participativo](https://brasilparticipativo.presidencia.gov.br/), além de detalhar as técnicas e as metodologias aplicadas durante a elaboração do projeto. Utiliza-se de conceitos e práticas de múltiplas metodologias de modo a fazer uma adaptação ao contexto do trabalho.
 
 ## Metodologias
 
 ### Scrum
 
-No Projeto, adota-se elementos metodológicos do scrum com encontros definidos no **[Plano de Comunicaçao](comunicacao.md)**. Utiliza-se principalmente os seguintes artefatos do Scrum [^2]:
+No Projeto, adota-se elementos metodológicos do Scrum com encontros definidos no **[Plano de Comunicaçao](comunicacao.md)**. Utiliza-se principalmente os seguintes artefatos do Scrum [^2]:
 
 - **_Sprint_**: período de tempo durante o qual é produzida uma versão incremental do produto. No projeto, uma _sprint_ possui 7 dias;
 - **_Daily_**: acompanhamento diário do desenvolvimento da _sprint_ de modo a identificar o que foi feito, o que será feito e as dificuldades a fim de mitigar e prevenir riscos. No projeto, a _daily_ ocorre durante um período de 15 minutos;
 - **Revisão de _sprint_**: reunião para validar o incremento do produto produzido na _sprint_ atual e adaptar o backlog do produto (se necessário).
-- **Retrospectiva da _Sprint_**: momento da equipe inspecionar a si própria de modo a criar um plano para melhorias a serem aplicadas na próxima _sprint_.
-- **Planejamento da _Sprint_**: com a colaboração de todos os papéis, define-se nessa etapa o trabalho a ser realizado na nova _sprint_.
+- **Retrospectiva da _sprint_**: momento da equipe inspecionar a si própria de modo a criar um plano para melhorias a serem aplicadas na próxima _sprint_.
+- **Planejamento da _sprint_**: com a colaboração de todos os papéis, define-se nessa etapa o trabalho a ser realizado na nova _sprint_.
 
 ### Kanban
 
-Para monitorar o trabalho da equipe, utiliza-se a metodologia Kanban através da ferramenta [Git projects](https://github.com/orgs/ResidenciaTICBrisa/projects/2) integrada às _issues_ do GitHub [^4]. Nesse sentido, definiu-se um fluxo de trabalho dividido em cinco etapas: _product backlog_, _sprint backlog_, _in progress_, _review/QA_ e _closed_.
+Para monitorar e visualizar o trabalho da equipe, utiliza-se a metodologia Kanban através da ferramenta [Git projects](https://github.com/orgs/ResidenciaTICBrisa/projects/2) integrada às _issues_ do GitHub [^4]. Nesse sentido, definiu-se um fluxo de trabalho dividido em cinco etapas: _product backlog_, _sprint backlog_, _in progress_, _review/QA_ e _closed_.
 
-- Ferramenta _Git projects_ [^3]: auxilia na geração de relatórios de métricas do desenvolvimento das _sprints_.
-- Categorização (labels): os artefatos presentes no fluxo do Kanban são categorizados com os rótulos.
+- Ferramenta _Git projects_ [^3]: ambiente de geração do quadro Kanban; auxilia na geração de relatórios de métricas do desenvolvimento das _sprints_.
+- Listas ou colunas: apresentam as etapas do fluxo de trabalho.
+- Itens: definem as issues ou tarefas a serem trabalhadas ao longo da _sprint_.
+- Categorização (_labels_): os artefatos presentes no fluxo do Kanban são categorizados com os rótulos.
 
 ### Extremming Programming (codificação)
 
@@ -37,7 +40,7 @@ No projeto, adota-se os pares de programação conforme expertise dos membros re
 
 ## Comunicação
 
-A comunicação da equipe ocorre conforme definido no **[Plano de Comunicaçao](comunicacao.md)**, ademais, o grupo realiza reuniões conforme definido no texto acima, além de interações para manter a equipe alinhada. 
+A comunicação da equipe ocorre conforme definido no **[Plano de Comunicaçao](comunicacao.md)**. Ademais, o grupo realiza reuniões conforme definido no texto acima, além de interações para manter a equipe alinhada. 
 
 ## Referências
 

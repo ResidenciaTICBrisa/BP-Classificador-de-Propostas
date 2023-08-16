@@ -5,6 +5,7 @@
 | Data       | Autor                                        | Modificações                          | Versão |
 | ---------- | -------------------------------------------- | ------------------------------------- | ------ |
 | 03/08/2023 | [Leandro Silva](https://github.com/Leanddro13) | Adicionou o plano metodológico da equipe | 1.0    |
+| 16/08/2023 | [Alexandre Oliveira](https://github.com/LexTOliver) | Pequenas correções textuais | 1.0.1    |
 
 ## Introdução
 
@@ -18,7 +19,7 @@ Ferramentas adotadas pela equipe:
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Telegram**        | Ferramenta utilizada para mensagens rápidas entre a equipe                                                                           |
 | **Discord**         | Ferramenta utilizada para a realização de encontros, por voz ou vídeo, além de possibilitar o compartilhamento de tela para atividades de pareamento |
-| **Git Projects**          | Ferramenta utilizada para o acompanhamento das issues do projeto através do método kanban. Além disso, fornece informações e relatórios estratégicos sobre o andamento do projeto ao longo do tempo                                      |
+| **Git Projects**          | Ferramenta utilizada para o acompanhamento das issues do projeto através do método Kanban. Além disso, fornece informações e relatórios estratégicos sobre o andamento do projeto ao longo do tempo                                      |
 | **GitHub issues**   | Ferramenta utilizada para comunicações técnicas sobre dúvidas e detalhamentos de atividades do projeto                               |
 
 ## Reuniões de Equipe
@@ -27,11 +28,11 @@ Ferramentas adotadas pela equipe:
 
 | Reunião                                                          | Dia(s)            | Canal   | Horários       |
 | ---------------------------------------------------------------- | ----------------- | ------- | -------------- |
-| **Daily**                                                        | Quarta a quarta | Discord | --:-- |
+| **_Daily_**                                                        | Quarta a quarta | Discord | --:-- |
 | **Reunião de revisão, retrospectiva e planejamento de trabalho** | Segunda           | Laboratório Co-creation | 14:00 às 16:00 |
 
-- As dailys dos finais de semana serão realizadas por chat no discord, nos demais dias serão realizadas no laboratório Co-creation.
-- Não necessariamente as reuniões vão durar o tempo estipulado acima, ficando a critério do time, do scrum master e do product manager deliberararem sobre o assunto.
+- As _dailys_ serão realizadas através do chat do discord ou no grupo do telegram.
+- Não necessariamente as reuniões vão durar o tempo estipulado acima, ficando a critério do time, do Scrum Master e do Product Manager deliberararem sobre o assunto.
 - O planejamento é passível a mudanças com base na necessidade e concordância dos integrantes do projeto.
 
 ### Reuniões variáveis

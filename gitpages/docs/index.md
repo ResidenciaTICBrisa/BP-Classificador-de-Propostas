@@ -1,7 +1,7 @@
 # Processamento de Linguagem Natural 
 
 ## Descrição
-[Brasil participativo](https://brasilparticipativo.presidencia.gov.br/processes/programas/f/2/) é a nova plataforma digital do governo federal, software livre Decidim, um espaço para que a população possa contribuir com a criação e melhoria das políticas públicas. Com uma semana no ar, a plataforma já tem 1000 propostas feitas pelos cidadãos. A plataforma, porém, não possui indexação ou processamento de linguagem natural para categorizar de forma automatizada as propostas. A ideia da proposta é fazer análise das propostas por meio de processamento de linguagem natural (PLN).
+[Brasil Participativo](https://brasilparticipativo.presidencia.gov.br/processes/programas/f/2/) é a nova plataforma digital do governo federal, software livre Decidim, um espaço para que a população possa contribuir com a criação e melhoria das políticas públicas. Com uma semana no ar, a plataforma já possuía 1000 propostas feitas pelos cidadãos. A plataforma, porém, não possui indexação ou processamento de linguagem natural para categorizar de forma automatizada as propostas. A ideia da proposta é fazer análise das propostas por meio de processamento de linguagem natural (PLN).
 
 
 
@@ -35,7 +35,7 @@
         <td align="center">
             <a href="https://github.com/chaydson">
                 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/90580219?v=4" width="150px;"/>
-                <h5 class="text-center">chaydson Ferreira</h5>
+                <h5 class="text-center">Chaydson Ferreira</h5>
             </a>
         </td>
         <td align="center">
