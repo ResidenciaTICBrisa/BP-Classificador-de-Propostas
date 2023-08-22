@@ -33,6 +33,7 @@ nav:
   - Projeto:
     - Código de conduta: "project/CODE_OF_CONDUCT.md"
   - Processo de desenvolvimento: "processo_de_desenvolvimento.ipynb"
+  - Registro de atividades: "atividade.md"
 
 # Plugin jupyter
 plugins:
