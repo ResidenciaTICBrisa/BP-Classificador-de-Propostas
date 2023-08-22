@@ -1,6 +1,6 @@
-### Relatório 01 – **12/06/2023 a 18/06/2023**
 Esse documento visa organizar e relatar o rastreio simplificado de atividades do projeto. Além disso, dispõe de histórico e resumo das reuniões realizadas. As atualizações são adicionadas a esse escopo semanalmente.
 
+### Relatório 01 – **12/06/2023 a 18/06/2023**
 **12/06/2023 – 1ª Reunião**
 
 **Resumo da reunião:** Houve a reunião na segunda-feira entre os horários estabelecidos pelo grupo no período da tarde entorno das 14:00 às 18:00, onde foi esclarecido as dúvidas e informações sobre o projeto em andamento. Foi discutido o conteúdo do projeto e os objetivos para inicio de planejamento.
