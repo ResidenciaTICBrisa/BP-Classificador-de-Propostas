@@ -206,8 +206,6 @@ Finalização no cadastramento de novas propostas do Brasil participativo. O pro
 |Membros da Equipe|Tarefas|Período|Status|Bibliotecas|
 |-----------------|-------|-------|------|-----------|
 |Leandro Santos e Alexandre|Documentação do processo de desenvolvimento do produto| 26/06|EM ANDAMENTO|Jupyter|
-|Alexandre e Chaydson|Pré-processamento dos dados|26/06 - 10/07|FINALIZADO|Pandas e Spacy|
-|João Pedro e Leandro Silva|Criar um script para buscar os dados automaticamente|26/06 - 10/07|FINALIZADO|ZipFile|
 
 **Tarefas disponíveis:**
 
@@ -277,8 +275,8 @@ Esboço do Cronograma e os sprints propostos:
 
 |Membros da Equipe|Tarefas|Período|Status|Bibliotecas|
 |-----------------|-------|-------|------|-----------|
-|Leandro Santos e Alexandre|Documentação do processo de desenvolvimento do produto| 26/06|EM ANDAMENTO|Jupyter|
-|Alexandre, Chaydson, João Pedro e Leandro Silva|Benchmark|19/07|INICIADO|Scikit-Learn, knn, Naive Bayes, TextCat, SVM|
+|Leandro Santos e Alexandre|Documentação do processo de desenvolvimento do produto|26/06|EM ANDAMENTO|Jupyter|
+|Alexandre, Chaydson, João Pedro e Leandro Silva|Benchmark|19/07|EM ANDAMENTO|Scikit-Learn, knn, Naive Bayes, TextCat, SVM|
 
 **Tarefas disponíveis:**
 
@@ -339,7 +337,7 @@ Machine Learning: Responsável pela construção e manutenção dos algoritmos d
 |Membros da Equipe|Tarefas|Período|Status|Bibliotecas|
 |-----------------|-------|-------|------|-----------|
 |Leandro Santos e Alexandre|Documentação do processo de desenvolvimento do produto| 26/06|EM ANDAMENTO|Jupyter|
-|Alexandre, Chaydson, João Pedro e Leandro Silva|Benchmark|19/07|INICIADO|Scikit-Learn, knn, Naive Bayes, TextCat, SVM|
+|Alexandre, Chaydson, João Pedro e Leandro Silva|Benchmark|19/07|EM ANDAMENTO|Scikit-Learn, knn, Naive Bayes, TextCat, SVM|
 
 **Tarefas disponíveis:**
 
@@ -388,7 +386,7 @@ https://residenciaticbrisa.github.io/07_ProcessamentoLinguagemNatural/)
 ### Relatório 09 – **07/08/2023 a 13/08/2023**
 **07/08/2023 – 9ª Reunião**
 
-**Resumo da reunião:**Os integrantes do grupo prontificaram em reportar os novos modelos de treinamento com os notebooks na pasta de benchmark. Após a reunião com os integrantes da BRISA realizada na última semana, foi discutido a aplicação de um roteiro para os próximos 3 meses de trabalho. Também foi definido o início da pesquisa de otimização de discurso de ódio com uso de análise de sentimento, revisão da documentação do MVP com ênfase na finalização e encaminhamento dos documentos para inclusão no deploy.
+**Resumo da reunião:** Os integrantes do grupo prontificaram em reportar os novos modelos de treinamento com os notebooks na pasta de benchmark. Após a reunião com os integrantes da BRISA realizada na última semana, foi discutido a aplicação de um roteiro para os próximos 3 meses de trabalho. Também foi definido o início da pesquisa de otimização de discurso de ódio com uso de análise de sentimento, revisão da documentação do MVP com ênfase na finalização e encaminhamento dos documentos para inclusão no deploy.
 
 **Conteúdo da reunião:** Foi confirmado que o modelo mais apropriado, o de melhor acurácia, o SVM (Support Vetorial Machine), em linguagem em português significa Máquina de Suporte Vetorial.
 
@@ -396,8 +394,8 @@ https://residenciaticbrisa.github.io/07_ProcessamentoLinguagemNatural/)
 
 |Membros da Equipe|Tarefas|Período|Status|Bibliotecas|
 |-----------------|-------|-------|------|-----------|
-|Leandro Santos e Alexandre|Documentação do processo de desenvolvimento do produto| 26/06|EM ANDAMENTO|Jupyter|
-|Alexandre, Chaydson, João Pedro e Leandro Silva|Benchmark|19/07|INICIADO|Scikit-Learn, knn, Naive Bayes, TextCat, SVM|
+|Leandro Santos e Alexandre|Documentação do processo de desenvolvimento do produto|26/06|EM ANDAMENTO|Jupyter|
+|Alexandre, Chaydson, João Pedro e Leandro Silva|Benchmark|19/07 - 10/08|FINALIZADO|Scikit-Learn, knn, Naive Bayes, TextCat, SVM|
 |Leandro Silva|Criação do GitPage|07/08|INICIADO|Mk Docs|
 |João Pedro|Análise de sentimento|07/08|INICIADO|Recurso: Td-IDF|
 
@@ -441,4 +439,73 @@ Definição para construção do RoadMap.
 ### Relatório 10 – **14/08/2023 a 20/08/2023**
 **14/08/2023 – 10ª Reunião**
 
-**Resumo da reunião:** Na reunião foi repassado o dia para a primeira Release que ficou marcada para quarta-feira (16 de agosto), atualizado as páginas para o deploy no repositório, definido um cronograma para o planejamento do roteiro.
+**Resumo da reunião:** Na reunião foi repassado o dia para a primeira Release que ficou marcada para quarta-feira,16 de agosto de 2023. Foi atualizado as páginas para o gh-pages no repositório, definido um cronograma para o planejamento do roteiro, as considerações finais para o término do MVP e a documentação, resolução sobre a pesquisa realizada em análise de sentimento, aproveitamento dos datasets públicos para treinamento do modelo e os registros semanais atualizados para auditoria dos tutores.
+
+**Conteúdo da reunião:** O esboço do roteiro foi apresentado e a distribuição das tarefas de otimizações para serem incrementadas mensalmente, as tarefas ainda entrarão no repositório com a atualização do roteiro com a colocação da aba de Roadmap ao lado do Kaban. 
+
+A auditoria do grupo de tutores ainda é importante para apontamento de mudanças no planejamento do Roadmap, a colocação de pontos que somente será entregue no dia do Release.
+
+O âmago do nosso trabalho de desenvolvimento esteve sempre atrelado ao acompanhamento do MVP e a documentação e implantação de novas tarefas com ênfase no processo do produto. 
+
+Os relatórios semanais serão consequentemente importantes para o registro na página do nosso projeto, eles serão colocados ainda na próxima semana.
+
+**Tarefas semanais:**
+
+|Membros da Equipe|Tarefas|Período|Status|Bibliotecas|
+|-----------------|-------|-------|------|-----------|
+|Leandro Santos e Alexandre|Documentação do processo de desenvolvimento do produto|26/06 - 15/08|FINALIZADO|Jupyter|
+|Leandro Silva|Criação do GitPage|07/08 - 16/08|FINALIZADO|Mk Docs|
+|João Pedro|Análise de sentimento|07/08 - 16/08|FINALIZADO|Recurso: Td-IDF|
+
+Após a finalização de todas as tarefas semanais, nosso grupo realizou as atualizações para o roteiro, ainda não definitivo, por esperar os apontamentos na primeira Release, algumas questões precisam ser debatidas com término da MVP. 
+
+Uma das questões principais era que o modelo ainda não poderia ser usado, pois sua acurácia ainda era muito baixa e essa relação dependia principalmente do número de propostas para cada categoria, algumas com muito pouco e outras com uma quantidade considerável. Os conjuntos de dados que são responsáveis para o treinamento não tinham uma semântica próxima ao que era descrito nas propostas, entretanto ainda era possível fazer predições na maioria das categorias. Então tornou-se necessário a procura de novas informações e novos de conjuntos de dados para conseguir atingir o objetivo do nosso projeto.
+
+Como definido durante a semana, as tarefas de otimização passarão a integrar a planilha do roteiro com os pedidos que vão ser distribuídos para a equipe mensalmente. O conceito é implementar as tarefas de otimização no final do mês, permitindo a abertura de novas otimizações no início de cada mês até a finalização do projeto e apresentação final.
+
+As pesquisas e obrigações no roteiro foram designados pela função e conhecimento de cada integrante do grupo, as atividades serão colocadas no repositório na aba do roadmap e no Kaban com as descrições do que está sendo feito.
+
+Além disso, todos resumos e atividades serão registradas para esse documento, informando as datas e os términos.
+
+**Resumo das tarefas para setembro:
+
+|Membros da Equipe|Tarefas|Período|Status|
+|-----------------|-------|-------|------|
+|Chaydson e Leandro Silva|Ruby: Pesquisa à implantação ao sistema.|04/09 - 01/10|DISPONÍVEL|
+|Alexandre|Few-shot: Pesquisa à validação|04/09 - 01/10|DISPONÍVEL|
+|João Pedro|SLClassifier v1.0.0: Otimizações|04/09 - 24/09|DISPONÍVEL|
+|Leandro Santos|Registro de atividades semanais|04/09 - 01/10|DISPONÍVEL|
+|João Pedro|Entregar o modelo com 80% de acurácia|25/09 - 01/10|DISPONÍVEL
+
+Esse quadro está suscetível a mudanças. As informações foram extraídas do Roadmap do repositório que dispõe de um melhor detalhamento delas.
+
+**Atividades da semana:**
+<br>Essa semana foi definida a data da reunião para primeira apresentação do produto. Nossa equipe organizou as informações em slides. Todas as tarefas semanais anteriores foram compridas. As novas foram designadas posteriormente após a implantação do Roadmap.
+
+14/08/2023
+
+O esboço do Roadmap foi apresentado ao grupo
+As conclusões do treinamento de modelo foram revistas pelos membros do grupo.
+
+15/08/2023
+
+Finalização do notebook de documentação do MVP
+Os preparativos para reunião ficaram prontos.
+
+16/08/2023
+
+Finalizado a análise de sentimento.
+
+Finalizado a revisão do gh-page.
+
+Foi realizado a apresentação com todos os integrantes presentes.
+
+Em relação ao apontamento dos tutores ficou designado a apresentação do Roadmap definitivo e a adição ao repositório até a próxima semana, aplicação de um novo conjunto de dados para treinamento do modelo, confirmações de tarefas, apresentação de documentação e registros semanais ao gh-page. 
+
+17/08/2023
+
+Apresentação de um modelo com SVM, td-idf e ngram com 60% de acurácia e colocação da entrega do produto e versionamento de dados.
+
+19/08/2023
+
+Houve uma reunião neste dia para definição e finalização das tarefas, sprints e ideias do Roadmap.
