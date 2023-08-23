@@ -467,15 +467,15 @@ As pesquisas e obrigações no roteiro foram designados pela função e conhecim
 
 Além disso, todos resumos e atividades serão registradas para esse documento, informando as datas e os términos.
 
-**Resumo das tarefas para setembro:
+**Resumo das tarefas para setembro:**
 
 |Membros da Equipe|Tarefas|Período|Status|
 |-----------------|-------|-------|------|
-|Chaydson e Leandro Silva|Ruby: Pesquisa à implantação ao sistema.|04/09 - 01/10|DISPONÍVEL|
-|Alexandre|Few-shot: Pesquisa à validação|04/09 - 01/10|DISPONÍVEL|
+|Chaydson e Leandro Silva|Ruby: Pesquisa  implantação ao sistema.|04/09 - 01/10|DISPONÍVEL|
+|Alexandre|Few-shot: Pesquisa e validação|04/09 - 01/10|DISPONÍVEL|
 |João Pedro|SLClassifier v1.0.0: Otimizações|04/09 - 24/09|DISPONÍVEL|
 |Leandro Santos|Registro de atividades semanais|04/09 - 01/10|DISPONÍVEL|
-|João Pedro|Entregar o modelo com 80% de acurácia|25/09 - 01/10|DISPONÍVEL
+|João Pedro|Entregar o modelo com 80% de acurácia|25/09 - 01/10|DISPONÍVEL|
 
 Esse quadro está suscetível a mudanças. As informações foram extraídas do Roadmap do repositório que dispõe de um melhor detalhamento delas.
 
