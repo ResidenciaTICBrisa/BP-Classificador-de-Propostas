@@ -388,7 +388,7 @@ https://residenciaticbrisa.github.io/07_ProcessamentoLinguagemNatural/)
 
 **Resumo da reunião:** Os integrantes do grupo prontificaram em reportar os novos modelos de treinamento com os notebooks na pasta de benchmark. Após a reunião com os integrantes da BRISA realizada na última semana, foi discutido a aplicação de um roteiro para os próximos 3 meses de trabalho. Também foi definido o início da pesquisa de otimização de discurso de ódio com uso de análise de sentimento, revisão da documentação do MVP com ênfase na finalização e encaminhamento dos documentos para inclusão no deploy.
 
-**Conteúdo da reunião:** Foi confirmado que o modelo mais apropriado, o de melhor acurácia, o SVM (Support Vetorial Machine), em linguagem em português significa Máquina de Suporte Vetorial.
+**Conteúdo da reunião:** Foi confirmado que o modelo mais apropriado, o de melhor acurácia, escolhido foi o SVM (Support Vetorial Machine), em tradução livre para português significa Máquina de Suporte Vetorial.
 
 **Tarefas semanais:**
 
@@ -441,7 +441,7 @@ Definição para construção do RoadMap.
 
 **Resumo da reunião:** Na reunião foi repassado o dia para a primeira Release que ficou marcada para quarta-feira,16 de agosto de 2023. Foi atualizado as páginas para o gh-pages no repositório, definido um cronograma para o planejamento do roteiro, as considerações finais para o término do MVP e a documentação, resolução sobre a pesquisa realizada em análise de sentimento, aproveitamento dos datasets públicos para treinamento do modelo e os registros semanais atualizados para auditoria dos tutores.
 
-**Conteúdo da reunião:** O esboço do roteiro foi apresentado e a distribuição das tarefas de otimizações para serem incrementadas mensalmente, as tarefas ainda entrarão no repositório com a atualização do roteiro com a colocação da aba de Roadmap ao lado do Kaban. 
+**Conteúdo da reunião:** O esboço do roteiro foi apresentado e a distribuição das tarefas de otimizações para serem incrementadas mensalmente, as tarefas ainda entrarão no repositório com a atualização do roteiro com a colocação da aba de Roadmap ao lado do Kanban. 
 
 A auditoria do grupo de tutores ainda é importante para apontamento de mudanças no planejamento do Roadmap, a colocação de pontos que somente será entregue no dia do Release.
 
@@ -509,3 +509,64 @@ Apresentação de um modelo com SVM, td-idf e ngram com 60% de acurácia e coloc
 19/08/2023
 
 Houve uma reunião neste dia para definição e finalização das tarefas, sprints e ideias do Roadmap.
+
+### Relatório 11 – **21/08/2023 a 27/08/2023**
+**14/08/2023 – 11ª Reunião**
+
+**Resumo da reunião:** Não houve acompanhamento com o cliente, entretanto em relação a primeira release realizada na semana passada, a equipe de tutores apontou alguns aspectos importantes com interesse no detalhamento da documentação, registro de atividades e o uso de um conjunto de dados disponíveis em sites do governo federal, essas informações foram discutidas e apreciadas pela equipe.
+
+**Conteúdo da reunião:** Com entendimento sobre os aspectos levantados na reunião, a equipe entrou em um consenso e designou os integrantes responsáveis pelas novas tarefas semanais.
+
+Das questões relacionadas a documentação, foi averiguado pela equipe que era necessário relatar o fluxo de trabalho, disponibilizar a arquitetura do modelo e encaminhar os registros de atividades ao gitPages.
+
+Em relação ao desenvolvimento do produto, algumas dificuldades relatas anteriormente precisavam de maior atenção durante a semana, além da documentação que era importante com o intuito de rastreamento com parte da BRISA, houve também o pedido para uso do conjunto de dados públicos de outros sites disponíveis do governo federal, em definitivo para melhoria da acurácia do modelo.
+
+**Tarefas semanais:**
+
+|Membros da Equipe|Tarefas|Período|Status|
+|-----------------|-------|-------|------|
+|Leandro Santos|Registro de Atividades|21/08 - 27/08|INICIADO|
+|Alexandre|Criação da Arquitetura|21/08 - 27/08|INCIADO|
+|João Pedro|Treinamento do modelo com a pesquisa de conjunto de dados públicos|21/08 - 27/08|INICIADO|
+
+**Resumo das Tarefas de Setembro:**
+
+|Membros da Equipe|Tarefas|Período|Status|
+|-----------------|-------|-------|------|
+|Chaydson e Leandro Silva|Ruby: Pesquisa  implantação ao sistema.|04/09 - 01/10|DISPONÍVEL|
+|Alexandre|Few-shot: Pesquisa e validação|04/09 - 01/10|DISPONÍVEL|
+|João Pedro|SLClassifier v1.0.0: Otimizações|04/09 - 24/09|DISPONÍVEL|
+|Leandro Santos|Registro de atividades semanais|04/09 - 01/10|DISPONÍVEL|
+|João Pedro|Entregar o modelo com 80% de acurácia|25/09 - 01/10|DISPONÍVEL|
+
+**Atividades da semana:**
+<br>Teve alguns contratempos, foi marcado outra release, agora com todos os membros da BRISA para quinta-feira. Então os integrantes que estavam disponíveis foram designados para essa tarefa, de apresentação e estruturação dos slides.
+
+Sobre o treinamento, como a sintaxe era mais próxima do modelo, as mudanças na acurácia foram visíveis, porém algumas categorias não tiveram alterações nas suas performances, observadas na análise do modelo.
+
+Nessa semana todas as demandas foram compridas e a reunião foi realizada com sucesso. Todas as pessoas equipe buscaram juntar as informações e os apontamentos que faltavam para detalhamento do projeto, entre elas estão as descrições concisas para o Roadmap, a arquitetura do modelo, o fluxo de trabalho do projeto e o registro de atividades no gitPage.
+
+21/08/2023
+
+O treinamento do modelo com o conjunto de dados públicos resultou em ótimos resultados, porém algumas mudanças ainda precisavam ser feitas, em nota as análises e resultados apresentados pelo modelo, as alterações que mais precisavam de atenção envolviam os tópicos com pouquíssimas propostas, o modelo não processava e de certa forma não categorizava todas corretamente. Apesar de encontrar essas dificuldades no projeto, o modelo concluiu o treinamento com uma acurácia acima de 70%, acima do último estudado.
+
+Com esses resultados, a equipe ainda tinha uma dúvida: Como prosseguir com o modelo? Era visível que o modelo precisava ser refinado, antes da devida implementação ao escopo principal do produto. Então ficou entendido entre todos os integrantes do grupo, que esses levantamentos deveriam ser repassados para os tutores. A apresentação seria esse espaço para que o apontamento fosse definitivo.
+
+22/08/2023
+
+Finalizado os registros de atividades 
+
+Os relatórios ficaram disponíveis para auditoria dos tutores em mais um tópico no site, gitPages.
+
+23/08/2023
+
+Concluído a tarefa de criação da arquitetura do projeto. Ainda não definitivo, por que algumas alterações podem alterá-las no decorrer da conclusão das tarefas de otimização, essas características entram na descrição do roteiro.
+
+24/08/2023
+
+Realizado a apresentação com os membros da equipe e a dúvida sobre o treinamento de modelo foi concluída.
+A dúvida, a possibilidade de implantar o modelo treinado com conjunto de dados públicos e acurácia elevada, mas ainda com problemas de categorização em alguns tópicos. 
+
+A resposta, teve a liberação dela pelos tutores, isso não traria problemas com o produto. De qualquer forma, esse detalhe apresentado será revisto e a equipe de treinamento de modelo tendo ciência dessa questão será responsável de fazer os testes quando na hora do teste definitivo e aprimoramento do produto, talvez no ultimo mês estabelecido no roteiro.
+
+Sendo que a apresentação desse dia ajudou a alinhar o desenvolvimento do produto entre os tutores e professores. Todas as deliberações apresentadas foram serão apreciadas pela equipe. 
