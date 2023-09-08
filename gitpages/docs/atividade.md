@@ -104,7 +104,7 @@ Adição do grupo por convite ao GitHub Project.
 Essas tarefas serão iniciadas no final da criação do MVP. Elas são otimizações posteriores.
 
 **Atividades da semana**
-<br>Conforme foi esclarecido em reunião foi designado tarefas para cada dupla. Então essa semana envolveu a pesquisa modelos parecidos para tarefas do uso de ferramentas para suprir o conteúdo do projeto.
+<br>Conforme foi esclarecido em reunião foi designado tarefas para cada dupla. Então, essa semana envolveu a pesquisa modelos parecidos para tarefas do uso de ferramentas para suprir o conteúdo do projeto.
 
 28/06/2023
 
