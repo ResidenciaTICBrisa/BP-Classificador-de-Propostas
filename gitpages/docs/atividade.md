@@ -465,7 +465,7 @@ Como definido durante a semana, as tarefas de otimização passarão a integrar 
 
 As pesquisas e obrigações no roteiro foram designados pela função e conhecimento de cada integrante do grupo, as atividades serão colocadas no repositório na aba do roadmap e no Kaban com as descrições do que está sendo feito.
 
-Além disso, todos resumos e atividades serão registradas para esse documento, informando as datas e os términos.
+Todos resumos e atividades serão registradas para esse documento, informando as datas e os términos.
 
 **Resumo das tarefas para setembro:**
 
