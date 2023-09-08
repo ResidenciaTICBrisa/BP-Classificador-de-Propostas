@@ -20,7 +20,7 @@ Esse documento visa organizar e relatar o rastreio simplificado de atividades do
 | Leandro Santos | Adicionar membros ao repositório do github| 12/06 - 19/06 | INICIADO |
 |João Pedro | Configuração do zenhub | 12/06 - 19/06 | INICIADO |
 |Leandro Silva| Criação do servidor do Discord | 12/06 - 19/06 | INICIADO|
-|Alexante|Compartilhar conteúdo sobre o Spacy|12/06 - 19/06|INICIADO|
+|Alexandre|Compartilhar conteúdo sobre o Spacy|12/06 - 19/06|INICIADO|
 |Chaydson|Compartilhar conteúdo sobre scikit-learn|12/06 - 19/06|INICIADO
 
 **Atividades da semana**
@@ -47,7 +47,7 @@ Houve uma dificuldade em conectar o Zenhub ao repositório GitHub, assim o model
 | Leandro Santos | Adicionar membros ao repositório do github| 12/06 - 13/06 | FINALIZADO |
 |João Pedro | Configuração do zenhub | 12/06 - 19/06 | CANCELADO |
 |Leandro Silva| Criação do servidor do Discord | 12/06 - 19/06 | FINALIZADO|
-|Alexante|Compartilhar conteúdo sobre o Spacy|12/06 - 19/06|FINALIZADO|
+|Alexandre|Compartilhar conteúdo sobre o Spacy|12/06 - 19/06|FINALIZADO|
 |Chaydson|Compartilhar conteúdo sobre scikit-learn|12/06 - 19/06|FINALIZADO
 
 ### Relatório 02 – **19/06/2023 a 25/06/2023**
@@ -511,7 +511,7 @@ Apresentação de um modelo com SVM, td-idf e ngram com 60% de acurácia e coloc
 Houve uma reunião neste dia para definição e finalização das tarefas, sprints e ideias do Roadmap.
 
 ### Relatório 11 – **21/08/2023 a 27/08/2023**
-**14/08/2023 – 11ª Reunião**
+**21/08/2023 – 11ª Reunião**
 
 **Resumo da reunião:** Não houve acompanhamento com o cliente, entretanto em relação a primeira release realizada na semana passada, a equipe de tutores apontou alguns aspectos importantes com interesse no detalhamento da documentação, registro de atividades e o uso de um conjunto de dados disponíveis em sites do governo federal, essas informações foram discutidas e apreciadas pela equipe.
 
@@ -529,7 +529,7 @@ Em relação ao desenvolvimento do produto, algumas dificuldades relatas anterio
 |Alexandre|Criação da Arquitetura|21/08 - 27/08|INCIADO|
 |João Pedro|Treinamento do modelo com a pesquisa de conjunto de dados públicos|21/08 - 27/08|INICIADO|
 
-**Resumo das Tarefas de Setembro:**
+**Resumo das tarefas de Setembro:**
 
 |Membros da Equipe|Tarefas|Período|Status|
 |-----------------|-------|-------|------|
@@ -540,7 +540,7 @@ Em relação ao desenvolvimento do produto, algumas dificuldades relatas anterio
 |João Pedro|Entregar o modelo com 80% de acurácia|25/09 - 01/10|DISPONÍVEL|
 
 **Atividades da semana:**
-<br>Teve alguns contratempos, foi marcado outra release, agora com todos os membros da BRISA para quinta-feira. Então os integrantes que estavam disponíveis foram designados para essa tarefa, de apresentação e estruturação dos slides.
+<br>Teve alguns contratempos, foi marcado outra release, agora com todos os membros da BRISA para quinta-feira. Então os integrantes que estavam disponíveis foram designados para essa tarefa, de apresentação dos slides.
 
 Sobre o treinamento, como a sintaxe era mais próxima do modelo, as mudanças na acurácia foram visíveis, porém algumas categorias não tiveram alterações nas suas performances, observadas na análise do modelo.
 
@@ -548,9 +548,10 @@ Nessa semana todas as demandas foram compridas e a reunião foi realizada com su
 
 21/08/2023
 
-O treinamento do modelo com o conjunto de dados públicos resultou em ótimos resultados, porém algumas mudanças ainda precisavam ser feitas, em nota as análises e resultados apresentados pelo modelo, as alterações que mais precisavam de atenção envolviam os tópicos com pouquíssimas propostas, o modelo não processava e de certa forma não categorizava todas corretamente. Apesar de encontrar essas dificuldades no projeto, o modelo concluiu o treinamento com uma acurácia acima de 70%, acima do último estudado.
+O treinamento do modelo com o conjunto de dados públicos resultou em ótimos resultados, porém algumas mudanças ainda precisavam ser feitas, em nota as análises e resultados apresentados pelo modelo, as alterações que mais precisavam de atenção envolviam os tópicos com pouquíssimas propostas, o modelo não processava e de certa forma não categorizava todas corretamente. Apesar de encontrar essas dificuldades no projeto, o modelo concluiu o treinamento com uma acurácia acima de 70%, 
+maior que o último estudado.
 
-Com esses resultados, a equipe ainda tinha uma dúvida: Como prosseguir com o modelo? Era visível que o modelo precisava ser refinado, antes da devida implementação ao escopo principal do produto. Então ficou entendido entre todos os integrantes do grupo, que esses levantamentos deveriam ser repassados para os tutores. A apresentação seria esse espaço para que o apontamento fosse definitivo.
+Com esses resultados, a equipe ainda tinha uma dúvida: "Como prosseguir com o modelo?". Visivelmente, o modelo precisava ser refinado, antes da devida implementação ao escopo principal do produto. Então ficou entendido entre todos os integrantes do grupo, que esses levantamentos deveriam ser repassados para os tutores. A apresentação seria esse espaço ideal para fazer essa pergunta.
 
 22/08/2023
 
@@ -565,8 +566,63 @@ Concluído a tarefa de criação da arquitetura do projeto. Ainda não definitiv
 24/08/2023
 
 Realizado a apresentação com os membros da equipe e a dúvida sobre o treinamento de modelo foi concluída.
-A dúvida, a possibilidade de implantar o modelo treinado com conjunto de dados públicos e acurácia elevada, mas ainda com problemas de categorização em alguns tópicos. 
 
-A resposta, teve a liberação dela pelos tutores, isso não traria problemas com o produto. De qualquer forma, esse detalhe apresentado será revisto e a equipe de treinamento de modelo tendo ciência dessa questão será responsável de fazer os testes quando na hora do teste definitivo e aprimoramento do produto, talvez no ultimo mês estabelecido no roteiro.
+A pergunta sobre a possibilidade de implantar o modelo treinado com conjunto de dados públicos e acurácia elevada, mas ainda com problemas de categorização em alguns tópicos.
+
+Em resposta a essa pergunta, os tutores disseram que isso não traria problemas. De qualquer forma, esse detalhe apresentado será revisto. A equipe de treinamento de modelo tendo ciência dessa questão ficará responsável de fazer os testes quando em fase de revisão do produto, talvez no último mês estabelecido no roteiro.
 
 Sendo que a apresentação desse dia ajudou a alinhar o desenvolvimento do produto entre os tutores e professores. Todas as deliberações apresentadas foram serão apreciadas pela equipe. 
+
+### Relatório 12 – **28/08/2023 a 03/09/2023**
+**28/08/2023 – 12ª Reunião**
+
+**Resumo da reunião:** Não houve acompanhamento, todas as atividades da semana anterior foram finalizadas, não teve modificações no roteiro do projeto. Então, as tarefas posteriores seguem em sincronia ao roteiro planejado. Uma reunião foi realizada com a cliente na sexta-feira.
+
+**Conteúdo da reunião:** A equipe se preocupou em preparar e retirar as últimas dúvidas com o cliente e os tutores. Dando sequência, as ideias de otimização para o escopo do projeto.
+
+Como as etapas do fluxo de trabalho estão linearmente detalhadas, qualquer mudança no prazo afeta as outras tarefas posteriores e o próprio roteiro. As dúvidas que ainda debatidas inicialmente em grupo precisaram de uma conclusão definitiva, com o envolvimento de todos os membros e de reuniões elaboradas entre o cliente.
+
+Questões no melhoramento do tratamento dos tópicos que não obtiveram a inferência desejada foram discutidas entre os membros da equipe. Com finalidade, de resolver a quantidade desproporcional de propostas entre elas.
+
+**Tarefas da semanais:**
+
+|Membros da Equipe|Tarefas|Período|Status|
+|-----------------|-------|-------|------|
+|Leandro Santos|Registro de Atividades|21/08 - 22/08|FINALIZADO|
+|Alexandre|Criação da Arquitetura|21/08 - 23/08|FINALIZADO|
+|João Pedro|Treinamento do modelo com a pesquisa de conjunto de dados públicos|21/08 - 23/08|FINALIZADO|
+
+**Resumo das tarefas de Setembro:**
+
+|Membros da Equipe|Tarefas|Período|Status|
+|-----------------|-------|-------|------|
+|Chaydson e Leandro Silva|Ruby: Pesquisa  implantação ao sistema.|04/09 - 01/10|DISPONÍVEL|
+|Alexandre|Few-shot: Pesquisa e validação|04/09 - 01/10|DISPONÍVEL|
+|João Pedro|SLClassifier v1.0.0: Otimizações|04/09 - 24/09|DISPONÍVEL|
+|Leandro Santos|Registro de atividades semanais|04/09 - 01/10|DISPONÍVEL|
+|João Pedro|Entregar o modelo com 80% de acurácia|25/09 - 01/10|DISPONÍVEL|
+
+**Atividades da semana:**
+<br>Como essa é a última semana que antecede os trabalhos de otimização definidas no roteiro, houve algumas modificações no desenvolvimento do MVP e a realização da reunião com o cliente.
+
+28/08/2023
+
+A arquitetura do modelo foi acoplada a aba de desenvolvimento no gitPage.
+
+01/09/2023
+
+Realizada a reunião com o cliente para solucionar as demandas e dúvidas do grupo.
+
+A aplicação do modelo ao site Brasil Participativo e sua inferência foram apresentadas na reunião com o cliente.
+
+Em conversa com cliente, as questões relacionadas a implantação do modelo ao site do Brasil Participativo foram descartadas, porque as medidas de segurança e privacidade desenvolvidas pelo sistema tornariam a tarefa de acoplamento mais complexa e penosa, consequentemente afetaria o fluxo do roteiro e impediria a equipe na aplicação de novas otimizações ao MVP vigente.
+
+Em seguida, foi discutido uma ideia que ajudaria no aproveitamento de propostas para os tópicos que não obtiveram nenhum resultado significativo no treinamento, com uso do Geam, módulo do Ruby.
+
+O Geam possibilita agregar mais propostas para os tópicos irrisórios.
+
+A ideia se basea em aproveitar os comentários e discursões nas redes sociais relacionadas aos ministérios. Desse modo, o incremento e a formalização desses comentários em propostas contundentes aos tópicos respectivos, resolveriam os problemas de balanceamento das categorias e a inferência do modelo.
+
+Esse método foi apreciado pelo cliente e adicionado ao roteiro da equipe. 
+
+A ocorrência de novos problemas ou dúvidas encerraram essa semana para continuidade no desenvolvimento do modelo, evitando principalmente que elas acumulem no decorrer do planejamento.
