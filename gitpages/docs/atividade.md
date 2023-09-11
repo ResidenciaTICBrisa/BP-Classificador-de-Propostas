@@ -617,11 +617,9 @@ A aplicação do modelo ao site Brasil Participativo e sua inferência foram apr
 
 Em conversa com cliente, as questões relacionadas a implantação do modelo ao site do Brasil Participativo foram descartadas, porque as medidas de segurança e privacidade desenvolvidas pelo sistema tornariam a tarefa de acoplamento mais complexa e penosa, consequentemente afetaria o fluxo do roteiro e impediria a equipe na aplicação de novas otimizações ao MVP vigente.
 
-Em seguida, foi discutido uma ideia que ajudaria no aproveitamento de propostas para os tópicos que não obtiveram nenhum resultado significativo no treinamento, com uso do Geam, módulo do Ruby.
+Em seguida, foi discutido uma ideia que ajudaria no aproveitamento de propostas para os tópicos que não obtiveram nenhum resultado significativo no treinamento.
 
-O Geam possibilita agregar mais propostas para os tópicos irrisórios.
-
-A ideia se basea em aproveitar os comentários e discursões nas redes sociais relacionadas aos ministérios. Desse modo, o incremento e a formalização desses comentários em propostas contundentes aos tópicos respectivos, resolveriam os problemas de balanceamento das categorias e a inferência do modelo.
+Ela se basea em aproveitar os comentários e discursões nas redes sociais relacionadas aos ministérios. Desse modo, o incremento e a formalização desses comentários em propostas contundentes aos tópicos respectivos, resolveriam os problemas de desbalanceamento das categorias e a inferência do modelo.
 
 Esse método foi apreciado pelo cliente e adicionado ao roteiro da equipe. 
 
