@@ -619,8 +619,68 @@ Em conversa com cliente, as questões relacionadas a implantação do modelo ao 
 
 Em seguida, foi discutido uma ideia que ajudaria no aproveitamento de propostas para os tópicos que não obtiveram nenhum resultado significativo no treinamento.
 
-Ela se basea em aproveitar os comentários e discursões nas redes sociais relacionadas aos ministérios. Desse modo, o incremento e a formalização desses comentários em propostas contundentes aos tópicos respectivos, resolveriam os problemas de desbalanceamento das categorias e a inferência do modelo.
+Ela se baseia em aproveitar os comentários e discursões nas redes sociais relacionadas aos ministérios. Desse modo, o incremento e a formalização desses comentários em propostas contundentes aos tópicos respectivos, resolveriam os problemas de desbalanceamento das categorias e a inferência do modelo.
 
 Esse método foi apreciado pelo cliente e adicionado ao roteiro da equipe. 
 
 A ocorrência de novos problemas ou dúvidas encerraram essa semana para continuidade no desenvolvimento do modelo, evitando principalmente que elas acumulem no decorrer do planejamento.
+
+### Relatório 13 – **04/09/2023 a 10/09/2023**
+Essa semana inicia a 2ª etapa dos trabalhos, finalizando as tarefas que antecedem o roteiro. Agora, os requerimentos seguem o painel de atividades e incluem novos desafios para o time. Portanto, os relatórios semanais sofreram algumas alterações na sua formatação, com ênfase na concisão dos fatos registrados, tornando a leitura eficaz e menos cansativa.
+
+De acordo com o desenvolvimento do produto, a fase de extração de dados, pré-processamento estão completas.
+Nessa sequência, na parte do treinamento de modelo, havia a necessidade de algumas alterações para atingir uma acurácia acima de 80%. Dito isso, pesquisas foram realizadas, envolvendo, os responsáveis por essa tarefa, conforme o andamento do nosso roteiro.
+
+No resultado a essas buscas, uma ideia foi apresentada ao cliente, ainda na semana anterior, com objetivo acabar com o desbalanceamento das propostas por tópico no treinamento.
+
+A ideia comentada, visava aproveitar os comentários nas redes sociais relacionadas aos temas com pouquíssimas propostas, formalizando-as em frases contundentes ao respectivo ministério. Dessa forma, provavelmente, o principal problema do treinamento do modelo seria concluído. 
+
+Em resposta a essa tarefa, que entrarão em andamento ainda semana que vem, serão executados testes para análise. No resultado delas, se supostamente, a acurácia do modelo alcançar patamares acima do esperado, a versão será atualizada na arquitetura e o responsável técnico irá verificar as conclusões com os tutores. Por outro lado, se ocorrer o contrário, será preciso ir atrás de outros recursos para finalizar essa parte do treinamento e, possivelmente, será designado um responsável para avaliar as descobertas, até o final do mês.
+
+Em sincronia ao roteiro, iniciou-se as pesquisas e estudos para implementação do modelo ao sistema Ruby. 
+Descrito no site oficial. Ruby é uma linguagem dinâmica, aberto ao público com foco na simplicidade e na produtividade. Tem sintaxe elegante de leitura natural e fácil escrita.
+
+Realizou-se uma reunião, para a demanda da fase de utilização do modelo, que procede a do treinamento do modelo.
+
+A utilização consiste em carregar o modelo em um formato ou arquivo serializado para que ele seja utilizado posteriormente ou acrescentado a um sistema.
+
+Inicialmente, foi utilizado a biblioteca Skops, que é nativa do Python, contudo ela não possuía suporte ao Ruby, impossibilitando a sua incorporação.
+
+Na semana, nosso grupo foi atrás de outros formatos interoperáveis, úteis para uso do modelo em um ambiente diferente de onde o modelo é treinado para serialização, em substituição ao anterior, como Open Neural Network Exchange (ONNX) e Predictive Model Markup Language (PMML).
+
+ONNX é uma serialização binária do modelo. Foi desenvolvido para melhorar a usabilidade da representação interoperável de modelos de dados. O objetivo é facilitar a conversão dos modelos de dados entre diferentes estruturas de aprendizado de máquina e melhorar sua portabilidade em diferentes arquiteturas computacionais.
+
+PMML é uma implementação do padrão de documento XML definido para representar modelos de dados juntamente com os dados usados ​​para gerá-los. Sendo legível por humanos e máquinas, PMML é uma boa opção para validação de modelos em diferentes plataformas e arquivamento de longo prazo. Por outro lado, assim como o XML em geral, sua verbosidade não auxilia na produção quando o desempenho é crítico.
+
+Além disso, foi discutido a criação de uma gem. 
+De acordo com o site, RubyGems é um sistema de pacotes Ruby que facilita a criação, compartilhamento e instalação de bibliotecas. 
+
+Pelo fato do nosso modelo possuir inúmeras dependências, a inclusão delas ao conceito principal do produto e a elaboração e criação da gem, módulo do Ruby. Certamente, possibilitaria a disponibilidade dos pacotes para o objetivo do projeto: A categorização das propostas do Brasil Participativo.
+
+Outra questão pronunciada, seria se manteríamos nosso modelo aberto ao público, ou não, por diretrizes legais. Posteriormente, após o incremento do modelo ao sistema do Ruby. Essa informação foi adicionada a reunião com o cliente.
+
+Foi marcada no calendário, a terceira apresentação do produto, agora com os membros da Brisa e demais envolvidos para segunda-feira, 11 de setembro.
+
+**Tarefas de Setembro:**
+
+|Membros da Equipe|Tarefas|Período|Status|
+|-----------------|-------|-------|------|
+|Chaydson e Leandro Silva|Ruby: Pesquisa  implantação ao sistema.|04/09 - 01/10|INICIADO|
+|Alexandre|Few-shot: Pesquisa e validação|04/09 - 01/10|INICIADO|
+|João Pedro|SLClassifier v1.0.0: Otimizações|04/09 - 24/09|INICIADO|
+|Leandro Santos|Registro de atividades semanais|04/09 - 01/10|INICIADO|
+|João Pedro|Entregar o modelo com 80% de acurácia|25/09 - 01/10|INICIADO|
+
+**Atividades da semana:**
+<br>Essa semana se resume as explanações supracitadas. Envolve na aprendizagem da equipe nos planos de incorporação do modelo ao Ruby, registro de atividade semanais e entrega de um conjunto de dados consistente para movimentação do fluxo de desenvolvimento.
+
+Devido a apresentação marcada para segunda-feira, 11 de setembro, os testes relacionados a inferência do modelo, foram atribuídos para próxima semana.
+
+04/09/2023
+<br>Realizado a reunião semanal da equipe com foco nas demandas de utilização do modelo.
+
+05/09/2023
+<br>Finalizado as exigências para apresentação.
+
+06/09/2023
+<br>Encaminhado o relatório semanal, registro 12 para o repositório na aba “Registro de atividades”.
