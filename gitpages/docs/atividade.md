@@ -684,3 +684,56 @@ Devido a apresentação marcada para segunda-feira, 11 de setembro, os testes re
 
 06/09/2023
 <br>Encaminhado o relatório semanal, registro 12 para o repositório na aba “Registro de atividades”.
+
+### Relatório 14 – **11/09/2023 a 17/09/2023**
+Na segunda-feira, 11 de setembro, foi realizado a terceira apresentação com os integrantes da Brisa, professores e tutores envolvidos no projeto. Esse dia, reservado para esse encontro e com os outros grupos. Sendo assim, o alinhamento com o nosso cliente foi adiado para sexta-feira.
+
+No final da apresentação foi destacado algumas informações, dentre elas, o andamento para serialização do produto para esse mês e as exigências para conclusão do treinamento do modelo. Visto que o sincronismo com o roteiro é de fundamental importância do projeto, os argumentos revistos em apresentação alinham-se do objetivo de entregar um classificador das propostas de precisão que segue os parâmetros para o desafio proposto, alinhamento acoplado ao sistema do Brasil Participativo e com as tarefas de otimização discutidas no planejamento. 
+
+As formas de integração do algoritmo Machine Learning ao Ruby, as otimizações de dados do algoritmo SLClassifier v1.0.0 e os resultados das pesquisas do modelo few-shot resumem-se ao escopo dessa semana.
+
+As pesquisas e estudos para integração do sistema do Brasil Participativo entram em progresso, pré-definidos no roteiro, relatados na semana anterior. 
+
+Os tipos diferentes de modelos few-shot observados e explorados na semana anterior aparecem na issue #29, em resultado dos artigos estudados pelo responsável técnico.
+
+Em resumo aos modelos few-shot estudados, nota-se que a direção da maioria deles são no uso de embeddings em conjunto ao cálculo de similiaridade por cosseno, mesma sugestão apresentada pelo professor no final da terceira apresentação. 
+
+O técnico também evidencia a baixa adesão da Linguagem de Processamento Natural para classificação de texto, dado simplesmente, pela dificuldade de possuir baixo uso de materiais qualitativos para aplicação real na indústria. Estendendo o uso de modelo few-shot ou zero shot para contornar esse problema. Contudo, ressalta-se a ausência de algoritmos para essa função. Em conclusão a pesquisa, apresenta-se 39 artigos com código baseado nestes modelos.
+
+Os relatórios semanais foram registrados e formatados em outro padrão com intuito de tornarem os registros das atividades mais concisas e precisas.
+
+As otimizações dos dados no SLClassifier (Classificador de aprendizagem supervisionada), partem em sequência a ideia informada anteriormente, na adição de propostas ao conjunto de dados e análise do primeiro teste. 
+
+Anteriormente, a avaliação demostrada no tópico da Casa Civil, nos gráficos vistos na aba de desenvolvimento do produto, entregava precisão de 0% para o respectivo tópico, já que possuía apenas 4 propostas disponíveis.
+
+Após, o incremento das propostas simuladas para o tema definido, exatamente 40 delas, obteve-se resultados diferentes, antes com um F1score de 0% para 50% atuais, demonstrando tendência de melhoramento para algoritmo SLClassifier. Entretanto, ainda que cedo, essas conclusões destinam-se a tutoria, se aprovado, novos testes serão realizados para os demais tópicos, ainda esse mês, visando alcançar os desejados 80% ou mais na acurácia.
+
+As formas de integração do algoritmo de aprendizado de máquina para o sistema Ruby, foi explicitado na semana anterior, com a pesquisa de formatos interoperáveis suportados pelo sistema, ONNX e o PMML, com ênfase no primeiro, por sua adequação das condições previstas na arquitetura do produto.
+
+Na sexta ocorreu a reunião com o cliente. Divulgando os resultados das pesquisas feitas e retificando o fluxo de execução do trabalho entre os demais tutores.
+
+**Tarefas de Setembro:**
+
+|Membros da Equipe|Tarefas|Período|Status|
+|-----------------|-------|-------|------|
+|Chaydson e Leandro Silva|Ruby: Pesquisa  implantação ao sistema.|04/09 - 01/10|EM ANDAMENTO|
+|Alexandre|Few-shot: Pesquisa e validação|04/09 - 01/10|EM ANDAMENTO|
+|João Pedro|SLClassifier v1.0.0: Otimizações|04/09 - 24/09|EM ANDAMENTO|
+|Leandro Santos|Registro de atividades semanais|04/09 - 01/10|EM ANDAMENTO|
+|João Pedro|Entregar o modelo com 80% de acurácia|25/09 - 01/10|EM ANDAMENTO|
+
+**Atividades da semana:**
+<br>Essa semana se resume as explanações supracitadas. A terceira apresentação, procura de otimizações para incorporação do modelo para o Ruby, o resultado da pesquisa e estudo dos modelos few-shots, testes realizados para o classificador de aprendizagem supervisionado, em treinamento do modelo e a reunião com o cliente com relatório semanal atualizado.
+
+Assim, torna-se todas as tarefas sincronizadas ao roteiro.
+
+11/09/2023
+<br>Realizada a terceira apresentação do produto.
+
+13/09/2023
+<br>Concluído o teste do treinamento de modelo, com uso de propostas simuladas para tópicos irrisórios.
+<br>Finalizado as pesquisas e estudos de modelos few-shots na issue #29 no repositório.
+
+15/09/2023
+<br>Realizado a reunião com o cliente e tutores.
+<br>Encaminhado o relatório semanal, registro 13 para o repositório na aba “Registro de atividades”.
