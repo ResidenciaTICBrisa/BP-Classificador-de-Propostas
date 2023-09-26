@@ -737,3 +737,48 @@ Assim, torna-se todas as tarefas sincronizadas ao roteiro.
 15/09/2023
 <br>Realizado a reunião com o cliente e tutores.
 <br>Encaminhado o relatório semanal, registro 13 para o repositório na aba “Registro de atividades”.
+
+### Relatório 15 – **18/09/2023 a 24/09/2023**
+Essa semana salienta-se na validação dos testes realizados com aproveitamento das propostas simuladas, a continuidade para incorporação do modelo ao sistema Ruby, otimização do modelo few-shot e o controle do registro de atividades semanal.
+
+Anteriormente, foi explorado o uso de propostas simuladas para os tópicos de baixo desempenho, iniciado pelo artigo da Casa Civil. Ao final do teste, foi visível a tendência de aperfeiçoamento do modelo. Por esse fato ser de grande importância, foi-se necessário validar essas informações com os tutores e professores responsáveis, observando as deliberações analisadas. Sendo assim, uma reunião online foi marcada para esse propósito na quarta-feira.
+
+Dito isso, se houver aprovação na simulação das propostas, outros tópicos terão sequência para registro e versionamento de novos modelos, dado que o resultado obtido será utilizado para incorporação do modelo ao Ruby. Por outro lado, se ocorrer a desaprovação, será necessário explorar outros métodos e recursos para melhorar a sua pontuação. Visto que, existe uma alternativa, a pesquisa de métodos por few-shot, aproveitando-se de artigos e estudos, tarefa #29. Apesar disso, sua aplicação abrangeria todo o espaço de tempo para teste. Para contornar isso, um integrante responsável foi designado para os testes, conforme o roteiro vigente.
+
+A reunião de quarta-feira não ocorreu, por alguns imprevistos, porém a equipe técnica responsável pelo aperfeiçoamento do modelo, entrou em contato no dia seguinte para esclarecer as análises realizadas.
+
+Em resumo, a validação foi aceita com acréscimo de apenas algumas ressalvas no aperfeiçoamento do texto das propostas e agrupamento delas em somente uma planilha. Além disso, optou-se por formalizar um contexto contundente ao recolhido no site brasil participativo, no intuito de aproximar da linguagem popular. Visto que, as propostas simuladas tinham um teor genérico, por condicionar textos advindos de comentários e reclamações pessoais em rede sociais no ambiente informalizado.
+
+A adequação das frases, tornava-as infinitivas e imperativas, consequentemente, caracterizando-as em críticas. Portanto, essa questão foi revista no mesmo dia, retornando propostas com conteúdo sugestivo com contexto de uma proposta. Assim, que a validação foi aceita, seguiu-se na realização das simulações os tópicos restantes com frases e contextos próximos do formato do site.
+
+Ainda essa semana, iniciou-se o processo de incorporar os temas simulados em uma planilha.
+
+Após o estudo do formato ONNX, o próximo passo deu-se essa semana, como as técnicas de integração. A equipe destinada para esse tema, moveu-se para desenvolver e aplicar as tentativas de incorporação ao sistema Ruby e criar a gem, espaço destinado para dependências do modelo. Provavelmente, com seu término previsto até o começo da próxima da semana.
+
+Em relação a pesquisa à validação ao few-shot, alinhando-se ao escopo do roteiro, segue-se a otimização do modelo e aprimoramento do pré-processamento do conteúdo estudado para essa semana, com o uso de novos recursos, previsto no repositório na tarefa #33 (Testar modelos few-shot), em resumo, dispõe da base de estudos, leituras, artigos e formas de implementação com o método mencionado.
+
+**Tarefas de Setembro:**
+
+|Membros da Equipe|Tarefas|Período|Status|
+|-----------------|-------|-------|------|
+|Chaydson e Leandro Silva|Ruby: Pesquisa  implantação ao sistema.|04/09 - 01/10|EM ANDAMENTO|
+|Alexandre|Few-shot: Pesquisa e validação|04/09 - 01/10|EM ANDAMENTO|
+|João Pedro|SLClassifier v1.0.0: Otimizações|04/09 - 01/10|EM ANDAMENTO|
+|Leandro Santos|Registro de atividades semanais|04/09 - 01/10|EM ANDAMENTO|
+|João Pedro|Entregar o modelo com 80% de acurácia|25/09 - 01/10|EM ANDAMENTO|
+
+**Atividades da semana:**
+<br>Resume-se ao histórico de atividades supracitadas. A serialização do produto e o treinamento do modelo entra na etapa final, sincronizados ao roteiro e com finalização preparada para próxima semana, até que a versão final do modelo esteja incorporada ao sistema Ruby, a arquitetura atualizada no espaço de desenvolvimento do produto e criada a gem com as respectivas dependências.
+
+18/09/2023
+<br>Artigos e pesquisas desenvolvidos para os testes do few-shot adicionado ao repositório, task #33.
+<br>Iniciado o teste dos modelos few-shot, pesquisa realizada, task #29.
+
+19/09/2023
+<br>Encaminhado o relatório semanal, registro 14 para o repositório na aba “Registro de atividades”.
+
+21/09/2023
+<br>Prévia da validação das propostas simuladas com algumas mudanças. Conversa realizada pelo corpo técnico e os tutores e professor.
+
+22/09/2023
+<br>Desenvolvidas novas propostas simuladas, acopladas a planilha que será enviada ao repositório semana que vem, no espaço de versionamento do modelo. Task #35
