@@ -782,3 +782,51 @@ Em relação a pesquisa à validação ao few-shot, alinhando-se ao escopo do ro
 
 22/09/2023
 <br>Desenvolvidas novas propostas simuladas, acopladas a planilha que será enviada ao repositório semana que vem, no espaço de versionamento do modelo. Task #35
+
+### Relatório 16 – **25/09/2023 a 01/10/2023**
+A última semana de outubro prevê as finalizações das tarefas para serialização do modelo, preparação para entrega ao sistema do Brasil Participativo, validações de modelos few-shot, atualizações nos testes de modelos, versionamento com adição das propostas simuladas, entrega de um modelo com 80% de acurácia e o registro semanal com histórico de atividades.
+
+Na semana anterior, verificou-se a tendência de melhoramento no desempenho do modelo com adição de propostas simuladas, possibilitando em uma pré-avaliação dada aos instrutores e professores na última reunião. Sendo assim, houve prosseguimento na resolução de novas propostas simuladas para composição dos tópicos restantes.
+
+A planilha contendo as novas propostas simuladas foi finalizada na segunda-feira, 25 de setembro. Dessa forma, um novo versionamento do modelo foi encaminhado para o repositório junto com a versão precedente que retrata as informações utilizadas nas propostas simuladas para Casa Civil.
+
+Assim sendo, os novos testes foram feitos com objetivo de analisar a inferência do modelo observado com o acréscimo das propostas. Como resultado, as alterações aperfeiçoaram a precisão do modelo, contudo, com avanço relativamente baixo, menor que a estimativa esperada pelos responsáveis, visto que a acurácia do modelo teve performance apenas de 2% acima do modelo preliminar.
+
+Independentemente do resultado alcançado, essa parte de otimização prosseguirá na próxima semana, com uso de novos métodos para balanceamento, levantadas para as deliberações entre os monitores e membros integrantes.
+
+Quanto as atualizações nos testes de modelos few-shot, alternativa ao método supracitado. Notou-se, que as pesquisas, artigos e matérias estudadas, resumidamente, ainda precisavam ser refinadas, já que parte dos trabalhos apresentavam definições em níveis experimentais, com poucas explicações para elaboração de um código concludente, porém, dentre os vários artigos explorados, um método recebeu atenção do técnico e foi separada para análise nesta semana, o Set-Fit.
+
+O interesse do Set-Fit pronunciado está no fato que para inferir, precisa de somente 8 amostras para cada tópico, promovendo resultados de outros modelos com acurácia e precisão elevada, no entanto, devido a parametrização de controle durante o treinamento, portanto, o uso exagerado de processamento, exige longas horas para um computador básico concluir o teste. 
+
+Dessa forma, a resolução deu-se pelo uso de computadores com GPUs integradas, destinado para diminuir esse espaço de processamento. O término da atividade foi marcado para a próxima semana pelo membro responsável. As atualizações serão documentadas e enviadas para o repositório, na tarefa correspondente, conforme o registro em roteiro.
+
+Na reunião de grupo realizada na segunda-feira, foi apresentado o funcionamento e execução da implementação do modelo ao sistema Ruby, pelo integrante responsável, finalizando a tarefa definitivamente na terça-feira com a criação da gem (conteúdo para dependências do modelo), com uso do formato interoperável ONNX para serialização do modelo, componente pesquisado e explorado nas semanas anteriores junto a etapas de desenvolvimento vinculadas ao roteiro. Dito isso, as novas alterações foram repassadas ao repositório, em documentação do processo de desenvolvimento do produto, embutida no tópico de utilização.
+
+A entrega de um modelo de 80% de acurácia não foi concluída, diante dos resultados dos testes realizados com baixa apuração e necessitar de tempo razoável para inferência do modelo. Dessa maneira, a parte de classificação que envolve a coleta das propostas de modo supervisionado (SLClassifier), alonga-se para próxima semana com a definição das alternativas vistas e revistas.
+
+O versionamento do modelo será aprovado pelo corpo de instrutores e professores em reunião, talvez prevista para acontecer na segunda-feira da próxima semana, 02 de outubro, com objetivo de adequar o projeto e validar as análises de teste.
+
+**Tarefas de Setembro:**
+
+|Membros da Equipe|Tarefas|Período|Status|
+|-----------------|-------|-------|------|
+|Chaydson e Leandro Silva|Ruby: Pesquisa  implantação ao sistema.|04/09 - 25/09|FINALIZADO|
+|Alexandre|Few-shot: Pesquisa e validação|04/09|EM ANDAMENTO|
+|João Pedro|SLClassifier v1.0.0: Otimizações|04/09|EM ANDAMENTO|
+|Leandro Santos|Registro de atividades semanais|04/09|EM ANDAMENTO|
+|João Pedro|Entregar o modelo com 80% de acurácia|25/09|EM ANDAMENTO|
+
+**Atividades da semana:**
+<br>Resume-se ao histórico de atividades supracitadas.
+
+25/09/2023
+<br>Realizado a reunião em grupo.
+<br>Finalizado a implementação do modelo ao sistema Ruby, com as atualizações dentro do repositório, issue #32.
+
+26/09/2023
+<br>Finalizado a criação do Gem.
+<br>Encaminhado o relatório semanal, registro 15 para o repositório na aba “Registro de atividades”.
+<br>Iniciado os testes no Set-Fit, modelo few-shot escolhido.
+
+29/09/2023
+<br>Versionamento do modelo com resolução dos testes do modelo, issue #42
