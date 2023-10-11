@@ -830,3 +830,60 @@ O versionamento do modelo será aprovado pelo corpo de instrutores e professores
 
 29/09/2023
 <br>Versionamento do modelo com resolução dos testes do modelo, issue #42
+
+### Relatório 17 – **02/10/2023 a 08/10/2023**
+Essa semana retoma a finalização das tarefas restantes, com prioridade no treinamento do modelo, na finalidade de procurar novos meios e ideias e aplicá-las para conclusão dessa etapa de classificação supervisionada, enfim, uma abordagem para novos métodos, inferir um modelo definitivo próximo da acurácia de 80%.
+
+O aumento da acurácia do modelo relatado na semana anterior, de 2% acima da versão anterior, resultou na ideia de melhorar balanceamento das categorias, dado por equilibrar as propostas, uma vez que sacrifica grande parte dos dados nos temas abundantes e incrementa as simuladas para os tópicos de baixa precisão, dessa maneira, aproxima o resultado do limiar sugerido pela equipe.
+
+Os testes no Set-Fit não atingiram a estimativa ideal para o seu uso, o recurso a ser utilizado para alternativa aos algoritmos preliminares, no resultado, abaixo do esperado, descritos nas análises realizadas, obteve acurácia entre 25% e 30%.
+
+Os membros restantes focaram em garantir que a documentação sobre o acoplamento do modelo ao sistema Ruby fosse encaminhada para o repositório, disponibilizando um parecer importante que fornece as equipes futuras informações para o desenvolvimento de outros projetos semelhantes.
+
+Em resumo, o mês de setembro baseou-se na integração do modelo ao sistema Ruby, do qual o site Brasil participativo foi implementado e as otimizações do classificador supervisionado (SLClassifier), parte importante para versionamento do modelo, atualização da arquitetura e documentação de desenvolvimento do produto. 
+
+As primeiras semanas do mês destinaram-se para realização de pesquisas, estudos, leituras de recursos, a exploração de outros tipos modelos, adição de novos métodos na tentativa de aprimorar a acurácia do modelo. Todas as etapas foram revistas entre os membros da equipe, os professores, instrutores e cliente, validando as análises para o modelo. 
+
+Sendo assim, com as tarefas alinhadas ao contexto, seguiu-se para as últimas semanas, com o acréscimo das propostas simuladas, versionamento e as documentações para o repositório. Além disso, obteve-se alguns avanços na fase de serialização com estudo e pesquisa do formato ONNX, implementação do sistema Ruby e criação da gem.
+
+Por outro lado, na fase de treinamento do modelo, os testes analisados, visando as novas versões das propostas simuladas e o Set-Fit, não atingiram resultados satisfatórios e estimados para acoplamento e seu definitivo término e atualização da versão na arquitetura do projeto, resultando em acurácias e precisões abaixo do limiar sugerido pelo grupo, no entanto, com a tendência de melhoramento, cálculos e requisitos, maior que as versões iniciais.
+
+**Tarefas de setembro:**
+
+|Membros da Equipe|Tarefas|Período|Status|
+|-----------------|-------|-------|------|
+|Alexandre|Few-shot: Pesquisa e validação|04/09 - 02/10|FINALIZADO|
+|João Pedro|SLClassifier v1.0.0: Otimizações|04/09|EM ANDAMENTO|
+|Leandro Santos|Registro de atividades semanais|04/09 - 04/10|FINALIZADO|
+|João Pedro|Entregar o modelo com 80% de acurácia|25/09|EM ANDAMENTO|
+
+Dito isso, durante a semana anterior, parte do roteiro planejado teve que ser adiado para a primeira semana de outubro e grande parte do progresso atual foi revisto para solucionar problemas, falhas de processamento em alguns testes, baixa estimativa na acurácia e falta de recursos suficientes para alcançar a meta desejada.
+
+Em relação, as dificuldades relatadas, está a demanda de processamento para execução dos treinamentos nos modelos, consequentemente, abrindo dúvidas sobre o tipo de equipamento que será utilizado na classificação quando acoplado ao Brasil Participativo e concluso o projeto e se o modelo implantado no Ruby, será público ou não.
+
+As tarefas de prioridade para outubro escritas no roteiro, tendem a fechar os requisitos da arquitetura do projeto, na busca de complementá-lo com o desenvolvimento de um classificador não supervisionado (UnSLClassifier), definitivamente, classificação em tópicos (subcategorias).
+
+**Resumo das tarefas para outubro:**
+
+|Membros da Equipe|Tarefas|Período|Status|
+|-----------------|-------|-------|------|
+|Chaydson, Leandro Silva, Alexandre e João Pedro|UnSLClassifier v1.0.0|09/10 - 30/10|DISPONÍVEL|
+|Leandro Santos|Registro de atividades semanais|09/10 - 05/11|DISPONÍVEL|
+
+Nesta pequena tabela, com a compressão simplificada dos fatos, edita grande parte do roteiro original de 4 semanas de outubro. Sendo que, a primeira e segunda semana de outubro, designa para maioria dos membros o estudo de algoritmos de clusterização e exploração de benchmarks. A penúltima e última semana, partem do princípio empírico de teste e conclusão, com análises e resultados dos algoritmos selecionados aplicados ao benchmark, portanto, com o envio da documentação no repositório, juntamente, com os registros semanais.
+
+**Atividades da semana:**
+<br>As tarefas foram finalizadas no decorrer dessa semana, sendo que somente a tarefa de classificação ainda não foi concluída. Desse modo, ela foi discutida pelos instrutores e a equipe, para readequação das prioridades do roteiro, dado o pouco tempo disponível, visto que, a demanda pela acurácia e precisão dentro dos requisitos escolhidos pelo time, serve de cerne para arquitetura do projeto e finalização no desenvolvimento do produto. Sem sua inferência desejada, encerra a possibilidade de inteirar o objetivo principal, de classificar as propostas e escaloná-las para referências semelhantes, por exemplo, a vista na casa legislativa, no ato de integrar as medidas pela maioria de votos estipulada em conjunto ao ministério público e demais interessados.
+
+Embora, superado o prazo de entrega das tarefas, não se afasta a conclusão de novas tarefas programas no roteiro, previsto para iniciarem na segunda semana de outubro, uma vez que o mero atraso propõe visões diferentes e abertura de novos estudos, portanto, traz a importância para exploração teórica e prática de entendimento geral alinhado ao princípio educativo do projeto e apresentação do produto para os demais integrantes.
+
+Os demais detalhamentos ressumem-se ao histórico supracitado deste relatório.
+
+02/10/2023
+<br>Finalizado os testes e otimizações do Set-Fit, issue #36.
+
+04/10/2023
+<br>Encaminhado o relatório semanal, registro 16 para o repositório na aba “Registro de atividades”. Encerrado os registros de setembro.
+
+08/10/2023
+<br>Adicionado uma nova versão do modelo, model_v6 #42.
