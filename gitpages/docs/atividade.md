@@ -919,3 +919,7 @@ Houve uma pequena mudança nas designações de tarefas por equipe, separou-se o
 
 15/10/2023
 <br>Encaminhado a versão 9 do modelo para o repositório. #42
+
+### Relatório 19 – **16/10/2023 a 22/10/2023**
+### Relatório 20 – **23/10/2023 a 29/10/2023**
+### Relatório 21(Entrega do projeto) – **30/10/2023 a 05/11/2023**
