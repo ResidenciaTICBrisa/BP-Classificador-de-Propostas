@@ -921,5 +921,52 @@ Houve uma pequena mudança nas designações de tarefas por equipe, separou-se o
 <br>Encaminhado a versão 9 do modelo para o repositório. #42
 
 ### Relatório 19 – **16/10/2023 a 22/10/2023**
+De acordo com roteiro, essa semana ainda foi foi dedicada para pesquisa e estudo de algoritmos de clusterização para o aprendizado não supervisionado, porém com algumas implementações, que não deram muito resultado. Além disso, foi incluído novos versionamentos de modelo ao repositório, juntamente com as documentações que retratam as novas apurações recolhidas em um novo experimento utilizado pelos responsáveis para balancear as propostas nos tópicos.
+
+Também tivemos problema com a execução do modelo da GEM RUBY, foi apresentado que ele não estava executando corretamente. As demais tarefas ainda estão em andamento.
+
+**Tarefas de outubro:**
+
+|Membros da Equipe|Tarefas|Período|Status|
+|-----------------|-------|-------|------|
+|Alexandre|UnSLClassifier v1.0.0|09/10 - 30/10|INICIADO|
+|Leandro Santos|Registro de atividades semanais|09/10 - 05/11|INICIADO|
+|João Pedro e Leandro Silva|SLClassifier v1.0.0|04/09|EM ANDAMENTO|
+|Chaydson|Correção da GEM|16/10 - 22/10|INICIADO|
+
+Houve uma pequena mudança nas designações de tarefas por equipe, Chaydson foi dedicar na correção da GEM o mais breve possível. Enquanto os demais membros vão finalizar as suas tarefas atribuídas. 
+
+
 ### Relatório 20 – **23/10/2023 a 29/10/2023**
+Dando continuidade com roteiro, essa semana foi concluído os estudos dos algoritmos de clusterização para o aprendizado não supervisionado, a acurácia foi baixa. A GEM da RUBY foi consertada e já está executando normalmente. E por último foi concluído o modelo de versionamento de dados Versão 10, com a acurácia atingindo 68%. Infelizmente não atingimos a nossa meta de 80%, foi testado diversos algoritmos e diversas técnicas de otimização e balanceamento de dados porém com melhoras significativas de 0,5% a 1% de acurácia, sendo o principal problema, a falta de dados.
+
+Mesmo não conseguindo alcançar a nossa meta, foi dada a ideia pelos monitores de fazermos uma automação por meio da ferramenta AIRFLOW, para que o nosso algoritmo baixe os dados da plataforma do Brasil participativo e já faça o treinamento sozinho, para que um dia quando tiver dados suficientes o algoritmo consiga alcançar a margem dos 80%. 
+
+**Tarefas de outubro:**
+
+|Membros da Equipe|Tarefas|Período|Status|
+|-----------------|-------|-------|------|
+|Alexandre|UnSLClassifier v1.0.0|09/10 - 30/10|Concluído|
+|João Pedro e Leandro Silva|SLClassifier v1.0.0|04/09|Concluído|
+|Chaydson|Correção da GEM|16/10 - 22/10|Concluído|
+
+|Membros da Equipe|Tarefas|Período|Status|
+|-----------------|-------|-------|------|
+|Alexandre|Categorização em SubTópicos|23/10 - 29/10|Em andamento|
+|Chaydson|Criação do AirFlow|23/10 - 29/10|Em andamento|
+|João|Últimas melhorias no modelo|23/10 - 29/10|Em andamento|
+|Leandro Silva|Documentação do projeto|23/10 - 29/10|Concluído|
+
+O Leandro Santos, por motivos pessoias teve que se ausentar do projeto. Então houve uma mudança nos papéis de equipe.
+
 ### Relatório 21(Entrega do projeto) – **30/10/2023 a 05/11/2023**
+
+Chegamos na última semana de desenvolvimento, será focado na finalização do projeto e na organização da entrega de um MVP, o joão Anacleto foi as últimas mudanças no modelo de versionamento de dados V10 e está documento para entrega. Foi criado o algoritmo de automação por meio do AirFlow e o algoritmo está sendo documento.
+No final da semana, será realizado um MERGE entre todas as Branchs que os membros trabalharam e será criado uma Release do nosso projeto. Dia 06/11 será a entrega do projeto.
+
+|Membros da Equipe|Tarefas|Período|Status|
+|-----------------|-------|-------|------|
+|Alexandre|Categorização em SubTópicos|23/10 - 29/10|Concluído|
+|Chaydson|Criação do AirFlow|23/10 - 29/10|Concluído|
+|João|Últimas melhorias no modelo|23/10 - 29/10|Concluído|
+|Leandro Silva|Documentação do projeto|23/10 - 29/10|Em andamento|
