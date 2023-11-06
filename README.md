@@ -7,22 +7,33 @@
   </a>
 </div>
 
-## <p align="left"><a href="https://residenciaticbrisa.github.io/07_ProcessamentoLinguagemNatural/">Visualizar documentação online</a></p>
+<p align="left"><a href="https://residenciaticbrisa.github.io/07_ProcessamentoLinguagemNatural/"><strong>Visualizar documentação online</strong></a></p>
 
 ## Descrição
 [Brasil Participativo](https://brasilparticipativo.presidencia.gov.br/processes/programas/f/2/) é a nova plataforma digital do governo federal, software livre Decidim, um espaço para que a população possa contribuir com a criação e melhoria das políticas públicas. Com uma semana no ar, a plataforma já tem 1000 propostas feitas pelos cidadãos. A plataforma, porém, não possui indexação ou processamento de linguagem natural para categorizar de forma automatizada as propostas. A ideia da proposta é fazer análise das propostas por meio de processamento de linguagem natural (PLN).
 
-
-
-**Resultados esperados:** Extração, análise e pré processamento de dados, pesquisa de modelos já existentes para análise de texto ou proposta para criação de novos modelos. Notebooks com rastreio de atividades.
-
-**Habilidades necessárias/preferenciais:** Conhecimento em python, conhecimento básico em ciência de dados, compreensão de regras gramaticais em língua portuguesa.
-
 **Mentores:** Laila, Secretaria de Participação Social
 
-**Tamanho do projeto:** Médio/Grande
+## 💻 Tecnologias
 
-**Dificuldade:** Grande
+**Tecnologias utilizadas neste projeto:**
+
+<p align="center">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=python,ruby"/>
+	</a>
+</p>
+
+## 🤖 Funcionalidade
+
+## 🛞 Como executar/rodar
+
+### **- 👩‍🦰 Usuário**
+
+1. **Abra seu terminal e digite o comando para instalar o Certifik8 do Pypi:**
+```
+gem install proposal-classifier
+```
 
 ## Desenvolvedores
 
