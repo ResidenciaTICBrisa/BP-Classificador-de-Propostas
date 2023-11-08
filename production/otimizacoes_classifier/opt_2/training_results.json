@@ -1,0 +1,321 @@
+{
+    "Advocacia-Geral da Uni\u00e3o": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7.0
+    },
+    "Agricultura e Pecu\u00e1ria": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 37.0
+    },
+    "Banco Central": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 8.0
+    },
+    "Casa Civil": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 13.0
+    },
+    "Cidades": {
+        "precision": 0.39622641509433965,
+        "recall": 0.22580645161290322,
+        "f1-score": 0.2876712328767123,
+        "support": 93.0
+    },
+    "Ci\u00eancia, Tecnologia e Inova\u00e7\u00e3o": {
+        "precision": 0.4782608695652174,
+        "recall": 0.19642857142857142,
+        "f1-score": 0.27848101265822783,
+        "support": 56.0
+    },
+    "Comunica\u00e7\u00e3o Social": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 11.0
+    },
+    "Comunica\u00e7\u00f5es": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 11.0
+    },
+    "Controladoria-Geral da Uni\u00e3o": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 13.0
+    },
+    "Cultura": {
+        "precision": 0.5689655172413793,
+        "recall": 0.5,
+        "f1-score": 0.532258064516129,
+        "support": 66.0
+    },
+    "Defesa": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 14.0
+    },
+    "Desenvolvimento Agr\u00e1rio e Agricultura Familiar": {
+        "precision": 0.4583333333333333,
+        "recall": 0.44,
+        "f1-score": 0.4489795918367347,
+        "support": 75.0
+    },
+    "Desenvolvimento e Assist\u00eancia Social, Fam\u00edlia e Combate \u00e0 Fome": {
+        "precision": 0.32978723404255317,
+        "recall": 0.23308270676691728,
+        "f1-score": 0.27312775330396477,
+        "support": 133.0
+    },
+    "Desenvolvimento, Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 32.0
+    },
+    "Direitos Humanos e Cidadania": {
+        "precision": 0.22929936305732485,
+        "recall": 0.4675324675324675,
+        "f1-score": 0.3076923076923077,
+        "support": 154.0
+    },
+    "Educa\u00e7\u00e3o": {
+        "precision": 0.5337726523887973,
+        "recall": 0.84375,
+        "f1-score": 0.6538849646821392,
+        "support": 384.0
+    },
+    "Esporte": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 28.0
+    },
+    "Fazenda": {
+        "precision": 0.40625,
+        "recall": 0.325,
+        "f1-score": 0.36111111111111116,
+        "support": 40.0
+    },
+    "Gest\u00e3o e Inova\u00e7\u00e3o em Servi\u00e7os P\u00fablicos": {
+        "precision": 0.30120481927710846,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.31645569620253167,
+        "support": 75.0
+    },
+    "I - Direito \u00e0 Cidadania, \u00e0 Participa\u00e7\u00e3o Social e Pol\u00edtica e \u00e0 Representa\u00e7\u00e3o Juvenil": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 25.0
+    },
+    "II - Direito \u00e0 Educa\u00e7\u00e3o": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 31.0
+    },
+    "III - Direito \u00e0 Profissionaliza\u00e7\u00e3o, ao Trabalho e \u00e0 Renda": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 26.0
+    },
+    "IV - Direito \u00e0 Diversidade e \u00e0 Igualdade": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 6.0
+    },
+    "IX - Direito \u00e0 Sustentabilidade e ao Meio Ambiente": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 5.0
+    },
+    "Igualdade Racial": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 28.0
+    },
+    "Integra\u00e7\u00e3o e Desenvolvimento Regional": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 36.0
+    },
+    "Justi\u00e7a e Seguran\u00e7a P\u00fablica": {
+        "precision": 0.6024096385542169,
+        "recall": 0.5154639175257731,
+        "f1-score": 0.5555555555555557,
+        "support": 97.0
+    },
+    "Meio Ambiente e Mudan\u00e7a do Clima": {
+        "precision": 0.3893129770992366,
+        "recall": 0.75,
+        "f1-score": 0.5125628140703519,
+        "support": 136.0
+    },
+    "Minas e Energia": {
+        "precision": 1.0,
+        "recall": 0.06451612903225806,
+        "f1-score": 0.12121212121212122,
+        "support": 31.0
+    },
+    "Mulheres": {
+        "precision": 0.5714285714285714,
+        "recall": 0.06557377049180328,
+        "f1-score": 0.11764705882352942,
+        "support": 61.0
+    },
+    "Outros": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 9.0
+    },
+    "Pesca e Aquicultura": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7.0
+    },
+    "Planejamento e Or\u00e7amento": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 32.0
+    },
+    "Portos e Aeroportos": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 4.0
+    },
+    "Povos Ind\u00edgenas": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 6.0
+    },
+    "Previd\u00eancia Social": {
+        "precision": 0.6190476190476191,
+        "recall": 0.32098765432098764,
+        "f1-score": 0.42276422764227645,
+        "support": 81.0
+    },
+    "Rela\u00e7\u00f5es Exteriores": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 5.0
+    },
+    "Rela\u00e7\u00f5es Institucionais": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 10.0
+    },
+    "Sa\u00fade": {
+        "precision": 0.5638629283489096,
+        "recall": 0.863961813842482,
+        "f1-score": 0.6823751178133836,
+        "support": 419.0
+    },
+    "Secretaria Geral da Presid\u00eancia da Rep\u00fablica": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 26.0
+    },
+    "Seguran\u00e7a Institucional": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+    },
+    "Trabalho e Emprego": {
+        "precision": 0.36885245901639346,
+        "recall": 0.4368932038834951,
+        "f1-score": 0.39999999999999997,
+        "support": 103.0
+    },
+    "Transportes": {
+        "precision": 0.5906432748538012,
+        "recall": 0.6778523489932886,
+        "f1-score": 0.6312500000000001,
+        "support": 149.0
+    },
+    "Turismo": {
+        "precision": 1.0,
+        "recall": 0.2,
+        "f1-score": 0.33333333333333337,
+        "support": 30.0
+    },
+    "V - Direito \u00e0 Sa\u00fade": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 15.0
+    },
+    "VI - Direito \u00e0 Cultura": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7.0
+    },
+    "VII - Direito \u00e0 Comunica\u00e7\u00e3o e \u00e0 Liberdade de Express\u00e3o": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 4.0
+    },
+    "VIII - Direito ao Desporto e ao Lazer": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 2.0
+    },
+    "X - Direito ao Territ\u00f3rio e \u00e0 Mobilidade": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 8.0
+    },
+    "XI - Direito \u00e0 Seguran\u00e7a P\u00fablica e ao Acesso \u00e0 Justi\u00e7a": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 8.0
+    },
+    "XII - Sistema Nacional de Juventude - SINAJUVE": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 4.0
+    },
+    "accuracy": 0.471754582865694,
+    "macro avg": {
+        "precision": 0.18446387592840785,
+        "recall": 0.1462780856620447,
+        "f1-score": 0.1418894502613806,
+        "support": 2673.0
+    },
+    "weighted avg": {
+        "precision": 0.4033586874202315,
+        "recall": 0.471754582865694,
+        "f1-score": 0.40556630094834756,
+        "support": 2673.0
+    }
+}

@@ -1,321 +1,321 @@
 {
     "Advocacia-Geral da Uni\u00e3o": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 7.0
+        "precision": 0.75,
+        "recall": 0.75,
+        "f1-score": 0.75,
+        "support": 16.0
     },
     "Agricultura e Pecu\u00e1ria": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 37.0
+        "precision": 0.35,
+        "recall": 0.22580645161290322,
+        "f1-score": 0.2745098039215686,
+        "support": 31.0
     },
     "Banco Central": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 8.0
+        "precision": 0.6666666666666666,
+        "recall": 0.75,
+        "f1-score": 0.7058823529411765,
+        "support": 16.0
     },
     "Casa Civil": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 13.0
+        "precision": 0.5,
+        "recall": 0.5217391304347826,
+        "f1-score": 0.5106382978723404,
+        "support": 23.0
     },
     "Cidades": {
-        "precision": 0.39622641509433965,
-        "recall": 0.22580645161290322,
-        "f1-score": 0.2876712328767123,
-        "support": 93.0
+        "precision": 0.3473684210526316,
+        "recall": 0.375,
+        "f1-score": 0.3606557377049181,
+        "support": 88.0
     },
     "Ci\u00eancia, Tecnologia e Inova\u00e7\u00e3o": {
-        "precision": 0.4782608695652174,
-        "recall": 0.19642857142857142,
-        "f1-score": 0.27848101265822783,
-        "support": 56.0
+        "precision": 0.37254901960784315,
+        "recall": 0.40425531914893614,
+        "f1-score": 0.38775510204081626,
+        "support": 47.0
     },
     "Comunica\u00e7\u00e3o Social": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 11.0
+        "precision": 0.125,
+        "recall": 0.11764705882352941,
+        "f1-score": 0.12121212121212122,
+        "support": 17.0
     },
     "Comunica\u00e7\u00f5es": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 11.0
+        "precision": 0.32,
+        "recall": 0.4,
+        "f1-score": 0.35555555555555557,
+        "support": 20.0
     },
     "Controladoria-Geral da Uni\u00e3o": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 13.0
+        "precision": 0.5384615384615384,
+        "recall": 0.4117647058823529,
+        "f1-score": 0.4666666666666667,
+        "support": 17.0
     },
     "Cultura": {
-        "precision": 0.5689655172413793,
-        "recall": 0.5,
-        "f1-score": 0.532258064516129,
-        "support": 66.0
+        "precision": 0.4603174603174603,
+        "recall": 0.43283582089552236,
+        "f1-score": 0.4461538461538461,
+        "support": 67.0
     },
     "Defesa": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 14.0
+        "precision": 0.36363636363636365,
+        "recall": 0.2222222222222222,
+        "f1-score": 0.27586206896551724,
+        "support": 18.0
     },
     "Desenvolvimento Agr\u00e1rio e Agricultura Familiar": {
-        "precision": 0.4583333333333333,
-        "recall": 0.44,
-        "f1-score": 0.4489795918367347,
-        "support": 75.0
+        "precision": 0.5287356321839081,
+        "recall": 0.5974025974025974,
+        "f1-score": 0.5609756097560975,
+        "support": 77.0
     },
     "Desenvolvimento e Assist\u00eancia Social, Fam\u00edlia e Combate \u00e0 Fome": {
-        "precision": 0.32978723404255317,
-        "recall": 0.23308270676691728,
-        "f1-score": 0.27312775330396477,
-        "support": 133.0
+        "precision": 0.391304347826087,
+        "recall": 0.36,
+        "f1-score": 0.37499999999999994,
+        "support": 125.0
     },
     "Desenvolvimento, Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 32.0
+        "precision": 0.27906976744186046,
+        "recall": 0.34285714285714286,
+        "f1-score": 0.3076923076923077,
+        "support": 35.0
     },
     "Direitos Humanos e Cidadania": {
-        "precision": 0.22929936305732485,
-        "recall": 0.4675324675324675,
-        "f1-score": 0.3076923076923077,
-        "support": 154.0
+        "precision": 0.37962962962962965,
+        "recall": 0.25949367088607594,
+        "f1-score": 0.30827067669172936,
+        "support": 158.0
     },
     "Educa\u00e7\u00e3o": {
-        "precision": 0.5337726523887973,
-        "recall": 0.84375,
-        "f1-score": 0.6538849646821392,
-        "support": 384.0
+        "precision": 0.7033639143730887,
+        "recall": 0.6084656084656085,
+        "f1-score": 0.6524822695035462,
+        "support": 378.0
     },
     "Esporte": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 28.0
+        "precision": 0.4482758620689655,
+        "recall": 0.48148148148148145,
+        "f1-score": 0.4642857142857143,
+        "support": 27.0
     },
     "Fazenda": {
-        "precision": 0.40625,
-        "recall": 0.325,
-        "f1-score": 0.36111111111111116,
+        "precision": 0.35714285714285715,
+        "recall": 0.375,
+        "f1-score": 0.3658536585365853,
         "support": 40.0
     },
     "Gest\u00e3o e Inova\u00e7\u00e3o em Servi\u00e7os P\u00fablicos": {
-        "precision": 0.30120481927710846,
-        "recall": 0.3333333333333333,
-        "f1-score": 0.31645569620253167,
-        "support": 75.0
+        "precision": 0.2903225806451613,
+        "recall": 0.3176470588235294,
+        "f1-score": 0.30337078651685395,
+        "support": 85.0
     },
     "I - Direito \u00e0 Cidadania, \u00e0 Participa\u00e7\u00e3o Social e Pol\u00edtica e \u00e0 Representa\u00e7\u00e3o Juvenil": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 25.0
+        "precision": 0.5057471264367817,
+        "recall": 0.4489795918367347,
+        "f1-score": 0.4756756756756757,
+        "support": 98.0
     },
     "II - Direito \u00e0 Educa\u00e7\u00e3o": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 31.0
+        "precision": 0.4857142857142857,
+        "recall": 0.3722627737226277,
+        "f1-score": 0.42148760330578516,
+        "support": 137.0
     },
     "III - Direito \u00e0 Profissionaliza\u00e7\u00e3o, ao Trabalho e \u00e0 Renda": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 26.0
+        "precision": 0.5252525252525253,
+        "recall": 0.5714285714285714,
+        "f1-score": 0.5473684210526316,
+        "support": 91.0
     },
     "IV - Direito \u00e0 Diversidade e \u00e0 Igualdade": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 6.0
+        "precision": 0.3333333333333333,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.3333333333333333,
+        "support": 45.0
     },
     "IX - Direito \u00e0 Sustentabilidade e ao Meio Ambiente": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 5.0
+        "precision": 0.47058823529411764,
+        "recall": 0.46153846153846156,
+        "f1-score": 0.46601941747572817,
+        "support": 52.0
     },
     "Igualdade Racial": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
+        "precision": 0.3939393939393939,
+        "recall": 0.4642857142857143,
+        "f1-score": 0.4262295081967213,
         "support": 28.0
     },
     "Integra\u00e7\u00e3o e Desenvolvimento Regional": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 36.0
+        "precision": 0.20689655172413793,
+        "recall": 0.18181818181818182,
+        "f1-score": 0.1935483870967742,
+        "support": 33.0
     },
     "Justi\u00e7a e Seguran\u00e7a P\u00fablica": {
-        "precision": 0.6024096385542169,
-        "recall": 0.5154639175257731,
-        "f1-score": 0.5555555555555557,
-        "support": 97.0
-    },
-    "Meio Ambiente e Mudan\u00e7a do Clima": {
-        "precision": 0.3893129770992366,
-        "recall": 0.75,
-        "f1-score": 0.5125628140703519,
-        "support": 136.0
-    },
-    "Minas e Energia": {
-        "precision": 1.0,
-        "recall": 0.06451612903225806,
-        "f1-score": 0.12121212121212122,
-        "support": 31.0
-    },
-    "Mulheres": {
-        "precision": 0.5714285714285714,
-        "recall": 0.06557377049180328,
-        "f1-score": 0.11764705882352942,
-        "support": 61.0
-    },
-    "Outros": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 9.0
-    },
-    "Pesca e Aquicultura": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 7.0
-    },
-    "Planejamento e Or\u00e7amento": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 32.0
-    },
-    "Portos e Aeroportos": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 4.0
-    },
-    "Povos Ind\u00edgenas": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 6.0
-    },
-    "Previd\u00eancia Social": {
-        "precision": 0.6190476190476191,
-        "recall": 0.32098765432098764,
-        "f1-score": 0.42276422764227645,
-        "support": 81.0
-    },
-    "Rela\u00e7\u00f5es Exteriores": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 5.0
-    },
-    "Rela\u00e7\u00f5es Institucionais": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 10.0
-    },
-    "Sa\u00fade": {
-        "precision": 0.5638629283489096,
-        "recall": 0.863961813842482,
-        "f1-score": 0.6823751178133836,
-        "support": 419.0
-    },
-    "Secretaria Geral da Presid\u00eancia da Rep\u00fablica": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 26.0
-    },
-    "Seguran\u00e7a Institucional": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 12.0
-    },
-    "Trabalho e Emprego": {
-        "precision": 0.36885245901639346,
-        "recall": 0.4368932038834951,
-        "f1-score": 0.39999999999999997,
+        "precision": 0.5849056603773585,
+        "recall": 0.6019417475728155,
+        "f1-score": 0.5933014354066986,
         "support": 103.0
     },
-    "Transportes": {
-        "precision": 0.5906432748538012,
-        "recall": 0.6778523489932886,
-        "f1-score": 0.6312500000000001,
+    "Meio Ambiente e Mudan\u00e7a do Clima": {
+        "precision": 0.5263157894736842,
+        "recall": 0.6040268456375839,
+        "f1-score": 0.5625,
         "support": 149.0
     },
-    "Turismo": {
-        "precision": 1.0,
-        "recall": 0.2,
-        "f1-score": 0.33333333333333337,
+    "Minas e Energia": {
+        "precision": 0.46808510638297873,
+        "recall": 0.7333333333333333,
+        "f1-score": 0.5714285714285714,
         "support": 30.0
     },
-    "V - Direito \u00e0 Sa\u00fade": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
+    "Mulheres": {
+        "precision": 0.4714285714285714,
+        "recall": 0.5892857142857143,
+        "f1-score": 0.5238095238095238,
+        "support": 56.0
+    },
+    "Outros": {
+        "precision": 0.23529411764705882,
+        "recall": 0.25,
+        "f1-score": 0.24242424242424243,
+        "support": 16.0
+    },
+    "Pesca e Aquicultura": {
+        "precision": 0.6363636363636364,
+        "recall": 0.8235294117647058,
+        "f1-score": 0.717948717948718,
+        "support": 17.0
+    },
+    "Planejamento e Or\u00e7amento": {
+        "precision": 0.13333333333333333,
+        "recall": 0.15789473684210525,
+        "f1-score": 0.14457831325301204,
+        "support": 38.0
+    },
+    "Portos e Aeroportos": {
+        "precision": 0.6153846153846154,
+        "recall": 0.5333333333333333,
+        "f1-score": 0.5714285714285715,
         "support": 15.0
     },
+    "Povos Ind\u00edgenas": {
+        "precision": 0.56,
+        "recall": 0.8235294117647058,
+        "f1-score": 0.6666666666666666,
+        "support": 17.0
+    },
+    "Previd\u00eancia Social": {
+        "precision": 0.5054945054945055,
+        "recall": 0.6133333333333333,
+        "f1-score": 0.5542168674698795,
+        "support": 75.0
+    },
+    "Rela\u00e7\u00f5es Exteriores": {
+        "precision": 0.45,
+        "recall": 0.5625,
+        "f1-score": 0.5,
+        "support": 16.0
+    },
+    "Rela\u00e7\u00f5es Institucionais": {
+        "precision": 0.125,
+        "recall": 0.10526315789473684,
+        "f1-score": 0.11428571428571428,
+        "support": 19.0
+    },
+    "Sa\u00fade": {
+        "precision": 0.7519582245430809,
+        "recall": 0.7024390243902439,
+        "f1-score": 0.7263556116015133,
+        "support": 410.0
+    },
+    "Secretaria Geral da Presid\u00eancia da Rep\u00fablica": {
+        "precision": 0.07407407407407407,
+        "recall": 0.07142857142857142,
+        "f1-score": 0.07272727272727272,
+        "support": 28.0
+    },
+    "Seguran\u00e7a Institucional": {
+        "precision": 0.14285714285714285,
+        "recall": 0.125,
+        "f1-score": 0.13333333333333333,
+        "support": 16.0
+    },
+    "Trabalho e Emprego": {
+        "precision": 0.432,
+        "recall": 0.4778761061946903,
+        "f1-score": 0.453781512605042,
+        "support": 113.0
+    },
+    "Transportes": {
+        "precision": 0.64,
+        "recall": 0.676056338028169,
+        "f1-score": 0.6575342465753424,
+        "support": 142.0
+    },
+    "Turismo": {
+        "precision": 0.675,
+        "recall": 0.7297297297297297,
+        "f1-score": 0.7012987012987014,
+        "support": 37.0
+    },
+    "V - Direito \u00e0 Sa\u00fade": {
+        "precision": 0.5050505050505051,
+        "recall": 0.6172839506172839,
+        "f1-score": 0.5555555555555556,
+        "support": 81.0
+    },
     "VI - Direito \u00e0 Cultura": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 7.0
+        "precision": 0.41379310344827586,
+        "recall": 0.5454545454545454,
+        "f1-score": 0.47058823529411764,
+        "support": 44.0
     },
     "VII - Direito \u00e0 Comunica\u00e7\u00e3o e \u00e0 Liberdade de Express\u00e3o": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 4.0
+        "precision": 0.27586206896551724,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.3018867924528302,
+        "support": 24.0
     },
     "VIII - Direito ao Desporto e ao Lazer": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 2.0
+        "precision": 0.5357142857142857,
+        "recall": 0.6521739130434783,
+        "f1-score": 0.5882352941176471,
+        "support": 23.0
     },
     "X - Direito ao Territ\u00f3rio e \u00e0 Mobilidade": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 8.0
+        "precision": 0.39473684210526316,
+        "recall": 0.35714285714285715,
+        "f1-score": 0.37500000000000006,
+        "support": 42.0
     },
     "XI - Direito \u00e0 Seguran\u00e7a P\u00fablica e ao Acesso \u00e0 Justi\u00e7a": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 8.0
+        "precision": 0.3142857142857143,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.3235294117647059,
+        "support": 33.0
     },
     "XII - Sistema Nacional de Juventude - SINAJUVE": {
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1-score": 0.0,
-        "support": 4.0
+        "precision": 0.3333333333333333,
+        "recall": 0.3125,
+        "f1-score": 0.3225806451612903,
+        "support": 16.0
     },
-    "accuracy": 0.471754582865694,
+    "accuracy": 0.5064583959146891,
     "macro avg": {
-        "precision": 0.18446387592840785,
-        "recall": 0.1462780856620447,
-        "f1-score": 0.1418894502613806,
-        "support": 2673.0
+        "precision": 0.42928600280414847,
+        "recall": 0.45331348285017475,
+        "f1-score": 0.43728392468162675,
+        "support": 3329.0
     },
     "weighted avg": {
-        "precision": 0.4033586874202315,
-        "recall": 0.471754582865694,
-        "f1-score": 0.40556630094834756,
-        "support": 2673.0
+        "precision": 0.5101764862626702,
+        "recall": 0.5064583959146891,
+        "f1-score": 0.505135984369998,
+        "support": 3329.0
     }
 }
