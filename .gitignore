@@ -7,3 +7,6 @@
 
 # Dataset do Brasil Participativo CSV
 model/propostas_brasilparticipativo_v*.csv
+
+# Site git pages
+/site
