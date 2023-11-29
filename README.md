@@ -62,7 +62,7 @@ Desse modo apos termos nosso ambiente configurado podemos partir para a execuç�
 
 ![Ruby Gem](https://sempreupdate.com.br/wp-content/uploads/2017/08/rubygems.png)
 
-Por fim esta disponibilizado a gem em Ruby e o repositorio da mesma para utilização do modelo dentro de plataformas web afim de ser integrado a plataforma do Brasil Participativo.
+Por fim esta disponibilizado a gem em Ruby e o repositorio da mesma para utilização do modelo dentro de plataformas web afim de ser integrado a plataforma do Brasil Participativo.Esta disponivel tanto o [repositorio](https://github.com/chaydson/proposal-classifier) da gem quanto sua [pagina](https://rubygems.org/gems/proposal-classifier) 
 
 ## 🤖 Funcionalidade
 
